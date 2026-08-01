@@ -1,0 +1,1001 @@
+complaint_id,complaint_text,category,priority,date_received,status
+1,The quality assurance on your latest product release is clearly lacking. Please look into this matter.,Service Quality,Medium,2024-06-03,Closed
+2,My order shows shipped but the carrier says they never received the package. This needs immediate attention.,Delivery,Medium,2024-05-15,Closed
+3,The account verification process keeps failing even with correct documents. I need help with this issue.,Account,Low,2024-04-13,Open
+4,The website is extremely slow and keeps timing out. I can't complete any transactions. Please look into this matter.,Technical Support,High,2023-02-24,Open
+5,My payment was deducted but the service was not activated. I need an immediate refund. I am very disappointed.,Billing,Medium,2024-04-05,In Progress
+6,The mobile app notifications are not working. I'm missing important alerts. I am very disappointed.,Technical Support,Low,2023-10-02,In Progress
+7,I was charged full price during the free trial period. This is a billing error. Please look into this matter.,Billing,High,2023-07-28,Open
+8,I want to delete my account but there is no option to do so on the website. I need help with this issue.,Account,Low,2023-04-10,Closed
+9,The delivery person did not ring the doorbell and left a missed delivery notice. This needs immediate attention.,Delivery,Low,2023-01-31,Open
+10,Half of the items in my order are missing. I only received 2 out of 5 items. I am very disappointed.,Delivery,Low,2024-03-26,Closed
+11,Someone accessed my account without authorization. I suspect a security breach. This needs immediate attention.,Account,Medium,2024-04-11,Closed
+12,My delivery was marked as delivered but I never received it at my address. I am very disappointed.,Delivery,High,2024-04-13,In Progress
+13,I was charged twice for my subscription this month. Please refund the extra amount. Expecting a quick resolution.,Billing,Medium,2023-05-21,Open
+14,I expect better service for the premium price I'm paying for your subscription. Expecting a quick resolution.,Service Quality,Medium,2023-12-24,Open
+15,My account is showing activity from a location I have never been to.,Account,Medium,2024-12-18,In Progress
+16,Video calls keep dropping after 5 minutes. My internet connection is fine. Please resolve this urgently.,Technical Support,High,2023-12-25,Open
+17,The price increased without any prior notification. This is unfair to loyal customers. Please look into this matter.,Billing,Medium,2024-03-01,Open
+18,I cannot change my subscription plan from the account management page. I need help with this issue.,Account,Medium,2023-12-15,In Progress
+19,I ordered express shipping but the package is coming via standard delivery. Expecting a quick resolution.,Delivery,Medium,2023-08-05,Open
+20,My account profile information was changed without my knowledge. Please resolve this urgently.,Account,High,2023-05-10,In Progress
+21,The promised features in the plan I purchased are not available. Please resolve this urgently.,Service Quality,Low,2024-11-28,In Progress
+22,The package was left at the wrong address and I had to retrieve it myself. Expecting a quick resolution.,Delivery,Medium,2023-12-11,Closed
+23,The website is extremely slow and keeps timing out. I can't complete any transactions. I need help with this issue.,Technical Support,Medium,2024-10-05,In Progress
+24,The account recovery process requires a phone number I no longer have access to. I need help with this issue.,Account,Low,2024-06-20,In Progress
+25,I received the wrong item. The order number matches but the product is different. This has been going on for too long.,Delivery,Low,2023-09-28,Closed
+26,I cannot update my email address on the account settings page. Expecting a quick resolution.,Account,High,2023-04-06,Closed
+27,The auto-renewal charged my card without sending a reminder email first.,Billing,High,2024-04-26,Closed
+28,Auto-save is not working and I lost 2 hours of work. Very frustrating. This needs immediate attention.,Technical Support,High,2024-11-18,In Progress
+29,Perishable items in my order arrived spoiled due to delayed delivery. Expecting a quick resolution.,Delivery,Medium,2023-12-26,Closed
+30,The fragile items in my order were not packed properly and arrived broken. This has been going on for too long.,Delivery,Medium,2023-02-20,Closed
+31,The quality assurance on your latest product release is clearly lacking. Please resolve this urgently.,Service Quality,Medium,2023-02-23,Open
+32,Video calls keep dropping after 5 minutes. My internet connection is fine. Expecting a quick resolution.,Technical Support,Medium,2024-12-11,Closed
+33,The search function on your platform returns irrelevant results or no results at all. Please resolve this urgently.,Technical Support,Medium,2024-05-05,Closed
+34,The price increased without any prior notification. This is unfair to loyal customers. Expecting a quick resolution.,Billing,Low,2024-09-22,In Progress
+35,The quality of your product has declined since I first purchased it. I need help with this issue.,Service Quality,Medium,2024-09-08,In Progress
+36,Perishable items in my order arrived spoiled due to delayed delivery. Please resolve this urgently.,Delivery,Low,2024-08-13,In Progress
+37,I cannot change my subscription plan from the account management page. This needs immediate attention.,Account,High,2023-11-18,Closed
+38,Your customer service representative was extremely rude and unhelpful during my call. Expecting a quick resolution.,Service Quality,High,2023-09-18,Open
+39,The gift wrapping I paid extra for was not included in the delivery. Expecting a quick resolution.,Delivery,Medium,2023-06-20,Open
+40,The delivery driver left the package in the rain without any protection. I am very disappointed.,Delivery,Low,2024-04-18,In Progress
+41,I received the wrong item. The order number matches but the product is different. Please resolve this urgently.,Delivery,High,2023-03-29,In Progress
+42,My device is not connecting to your service. I've followed all troubleshooting steps. Please look into this matter.,Technical Support,Low,2024-07-27,Closed
+43,The gift wrapping I paid extra for was not included in the delivery. Please look into this matter.,Delivery,Medium,2024-06-09,In Progress
+44,The delivery date was changed twice without notifying me in advance. This has been going on for too long.,Delivery,Medium,2024-04-22,In Progress
+45,Half of the items in my order are missing. I only received 2 out of 5 items. Please look into this matter.,Delivery,High,2023-04-12,Open
+46,Screen sharing feature freezes during presentations. This is affecting my work. I am very disappointed.,Technical Support,Low,2024-11-25,In Progress
+47,The delivery date was changed twice without notifying me in advance. This has been going on for too long.,Delivery,Low,2023-10-03,Closed
+48,The gift wrapping I paid extra for was not included in the delivery. This has been going on for too long.,Delivery,High,2024-07-06,In Progress
+49,I was transferred between 4 different departments without anyone helping me. Expecting a quick resolution.,Service Quality,High,2024-07-10,Open
+50,I received the wrong item. The order number matches but the product is different.,Delivery,Low,2024-03-21,In Progress
+51,The delivery window given was 8am-8pm which is way too broad to be useful. I am very disappointed.,Delivery,Low,2024-12-07,In Progress
+52,I cannot upload files larger than 5MB even though the limit should be 25MB. I am very disappointed.,Technical Support,High,2023-06-29,In Progress
+53,The price increased without any prior notification. This is unfair to loyal customers. Please look into this matter.,Billing,Low,2024-01-19,Closed
+54,My account profile information was changed without my knowledge. I need help with this issue.,Account,High,2023-12-02,Closed
+55,The calendar integration with my email client stopped working after the update. Please look into this matter.,Technical Support,High,2023-08-06,In Progress
+56,The estimated delivery date on the website was inaccurate by over a week. Please resolve this urgently.,Delivery,Medium,2024-01-30,Open
+57,I cannot change my subscription plan from the account management page.,Account,Medium,2023-10-02,In Progress
+58,I filed a formal complaint two weeks ago and have received no acknowledgment. I am very disappointed.,Service Quality,Medium,2023-02-14,Open
+59,The delivery window given was 8am-8pm which is way too broad to be useful. This needs immediate attention.,Delivery,Medium,2023-10-12,In Progress
+60,I need an itemized bill breakdown. The total charges seem inflated. Please look into this matter.,Billing,Medium,2023-05-03,Closed
+61,I requested an account data export but received an incomplete file. I need help with this issue.,Account,High,2024-02-29,In Progress
+62,I ordered express shipping but the package is coming via standard delivery. Please resolve this urgently.,Delivery,High,2023-04-10,Open
+63,The technician who visited my home was unprofessional and left without fixing the issue. I am very disappointed.,Service Quality,Low,2023-02-13,In Progress
+64,Data sync between desktop and mobile versions is not working properly. I am very disappointed.,Technical Support,Medium,2024-12-20,Closed
+65,I cannot add a secondary user to my account as the option is greyed out. This has been going on for too long.,Account,High,2023-11-06,Closed
+66,The account merge feature is not working. I have two accounts that need combining.,Account,Medium,2024-04-17,In Progress
+67,I filed a formal complaint two weeks ago and have received no acknowledgment. Expecting a quick resolution.,Service Quality,Low,2023-12-01,In Progress
+68,My delivery was marked as delivered but I never received it at my address. Expecting a quick resolution.,Delivery,Medium,2023-07-24,In Progress
+69,The account merge feature is not working. I have two accounts that need combining.,Account,Low,2024-06-04,Open
+70,The service quality has deteriorated significantly over the past few months. Please look into this matter.,Service Quality,Medium,2024-03-28,Open
+71,My account shows a balance due but I already paid in full last week. I need help with this issue.,Billing,Medium,2024-08-17,Open
+72,Perishable items in my order arrived spoiled due to delayed delivery. This needs immediate attention.,Delivery,Medium,2023-07-28,In Progress
+73,The delivery person did not ring the doorbell and left a missed delivery notice. Please resolve this urgently.,Delivery,Low,2024-11-30,In Progress
+74,The account recovery process requires a phone number I no longer have access to. Please resolve this urgently.,Account,Medium,2024-08-09,Open
+75,I expect better service for the premium price I'm paying for your subscription. Please resolve this urgently.,Service Quality,Medium,2023-05-24,Open
+76,Your team promised a callback within 24 hours but nobody called me back. This has been going on for too long.,Service Quality,Medium,2024-04-27,Open
+77,The fragile items in my order were not packed properly and arrived broken. Please resolve this urgently.,Delivery,Low,2024-06-24,Closed
+78,The promised features in the plan I purchased are not available.,Service Quality,Medium,2023-04-25,Open
+79,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Expecting a quick resolution.,Delivery,Low,2024-04-04,In Progress
+80,The software update broke several features that were working fine before. I am very disappointed.,Technical Support,Low,2023-06-28,Closed
+81,My delivery was marked as delivered but I never received it at my address. Please resolve this urgently.,Delivery,High,2023-06-21,Closed
+82,The account recovery process requires a phone number I no longer have access to. I need help with this issue.,Account,High,2023-07-14,In Progress
+83,The currency conversion rate applied to my bill is incorrect. This needs immediate attention.,Billing,Medium,2023-10-21,Closed
+84,The quality of your product has declined since I first purchased it.,Service Quality,Low,2024-08-16,In Progress
+85,I received the wrong item. The order number matches but the product is different. Please resolve this urgently.,Delivery,Medium,2023-11-26,Open
+86,I cannot log into my account. The password reset link is not working either. Please resolve this urgently.,Technical Support,High,2024-02-28,Open
+87,I expect better service for the premium price I'm paying for your subscription. This needs immediate attention.,Service Quality,Low,2023-05-27,Open
+88,Auto-save is not working and I lost 2 hours of work. Very frustrating. I need help with this issue.,Technical Support,Medium,2023-12-05,Closed
+89,The technician who visited my home was unprofessional and left without fixing the issue. I need help with this issue.,Service Quality,Medium,2023-09-13,In Progress
+90,Your staff provided incorrect information which caused me financial loss. I need help with this issue.,Service Quality,Medium,2024-12-04,Open
+91,The delivery window given was 8am-8pm which is way too broad to be useful. I need help with this issue.,Delivery,High,2023-03-05,Closed
+92,The package arrived damaged. The contents inside were completely broken. Please look into this matter.,Delivery,High,2024-09-21,Closed
+93,My account tier benefits are not reflecting even though I qualify for gold status. This needs immediate attention.,Account,Low,2024-12-26,Closed
+94,I filed a formal complaint two weeks ago and have received no acknowledgment. I am very disappointed.,Service Quality,High,2023-01-27,Closed
+95,The price increased without any prior notification. This is unfair to loyal customers. This has been going on for too long.,Billing,High,2024-06-14,Open
+96,Perishable items in my order arrived spoiled due to delayed delivery. I need help with this issue.,Delivery,Medium,2023-05-19,In Progress
+97,The fragile items in my order were not packed properly and arrived broken.,Delivery,Low,2023-02-17,In Progress
+98,I cancelled my plan last month but I'm still being billed. Please stop the charges. Expecting a quick resolution.,Billing,Medium,2023-10-11,In Progress
+99,I ordered express shipping but the package is coming via standard delivery. Expecting a quick resolution.,Delivery,Low,2023-03-02,Closed
+100,I filed a formal complaint two weeks ago and have received no acknowledgment. This has been going on for too long.,Service Quality,Medium,2024-04-20,In Progress
+101,The delivery driver left the package in the rain without any protection. I need help with this issue.,Delivery,Medium,2024-10-17,Closed
+102,The tracking information hasn't updated in 4 days. Where is my package? I am very disappointed.,Delivery,Medium,2024-11-25,Open
+103,I cancelled my plan last month but I'm still being billed. Please stop the charges. Expecting a quick resolution.,Billing,Medium,2024-07-23,Closed
+104,My replacement order is taking longer than the original order to ship.,Delivery,Low,2024-09-24,Closed
+105,My account was locked without any explanation. I need immediate access.,Account,Medium,2023-03-18,Closed
+106,The invoice amount does not match what was quoted by your sales team. I need help with this issue.,Billing,High,2023-09-04,Open
+107,The delivery driver left the package in the rain without any protection.,Delivery,Medium,2024-02-11,Open
+108,The package arrived damaged. The contents inside were completely broken. Please look into this matter.,Delivery,Medium,2024-12-22,In Progress
+109,Perishable items in my order arrived spoiled due to delayed delivery. Please resolve this urgently.,Delivery,Low,2024-03-19,Closed
+110,The price increased without any prior notification. This is unfair to loyal customers. This needs immediate attention.,Billing,Low,2023-07-24,Closed
+111,The privacy settings on my account are not saving when I try to update them. I need help with this issue.,Account,Medium,2024-11-28,In Progress
+112,My package was returned to sender without any attempt to deliver it. I am very disappointed.,Delivery,High,2023-12-02,Closed
+113,I cannot change my subscription plan from the account management page. Please look into this matter.,Account,High,2024-12-31,Closed
+114,I cannot log into my account. The password reset link is not working either. This needs immediate attention.,Technical Support,Medium,2024-01-08,Closed
+115,The export feature generates corrupted files. I cannot open the downloaded reports. This has been going on for too long.,Technical Support,Medium,2024-12-04,Open
+116,Your customer service representative was extremely rude and unhelpful during my call. Please look into this matter.,Service Quality,Medium,2023-03-11,Closed
+117,My account history and past orders have been wiped clean after the migration. Expecting a quick resolution.,Account,High,2024-07-17,Open
+118,I was charged full price during the free trial period. This is a billing error. Please resolve this urgently.,Billing,Medium,2023-12-11,In Progress
+119,The promised features in the plan I purchased are not available. Expecting a quick resolution.,Service Quality,Medium,2023-11-18,Open
+120,The promotional discount was not applied to my latest invoice. I was promised 20% off. This has been going on for too long.,Billing,High,2024-07-04,Open
+121,The technician who visited my home was unprofessional and left without fixing the issue. I need help with this issue.,Service Quality,Medium,2023-01-02,Closed
+122,The estimated delivery date on the website was inaccurate by over a week.,Delivery,High,2024-10-09,Closed
+123,My payment was deducted but the service was not activated. I need an immediate refund. This has been going on for too long.,Billing,High,2024-06-12,Closed
+124,Your customer service representative was extremely rude and unhelpful during my call.,Service Quality,Medium,2023-11-29,In Progress
+125,I cannot upload files larger than 5MB even though the limit should be 25MB. I am very disappointed.,Technical Support,Medium,2024-06-05,Closed
+126,I was charged for a premium feature that I never opted into. Remove the charge. I need help with this issue.,Billing,High,2024-04-14,Open
+127,My account was locked without any explanation. I need immediate access. This needs immediate attention.,Account,Low,2024-11-19,In Progress
+128,I've been waiting 3 weeks for an international shipment that was quoted 7 days. I am very disappointed.,Delivery,Low,2023-03-26,Closed
+129,My loyalty points disappeared from my account after the system update.,Account,High,2024-01-27,Closed
+130,The software update broke several features that were working fine before. Please look into this matter.,Technical Support,High,2024-02-05,In Progress
+131,The currency conversion rate applied to my bill is incorrect.,Billing,Medium,2024-04-02,Open
+132,The price increased without any prior notification. This is unfair to loyal customers. I am very disappointed.,Billing,Low,2023-06-28,In Progress
+133,I cannot upload files larger than 5MB even though the limit should be 25MB. I need help with this issue.,Technical Support,Low,2023-08-26,Closed
+134,The chat feature is not loading. I see a blank screen when I click on messages. Please resolve this urgently.,Technical Support,Medium,2024-11-28,Open
+135,I cannot log into my account. The password reset link is not working either. Please resolve this urgently.,Technical Support,Medium,2023-07-15,Closed
+136,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Expecting a quick resolution.,Delivery,High,2024-02-25,Open
+137,The package was left at the wrong address and I had to retrieve it myself. Please look into this matter.,Delivery,Low,2024-04-21,Closed
+138,My corporate discount is not reflecting on the latest bill. Please correct this. I am very disappointed.,Billing,High,2024-12-17,Closed
+139,The technician who visited my home was unprofessional and left without fixing the issue. This has been going on for too long.,Service Quality,Low,2024-07-28,Closed
+140,I received a late payment fee even though I paid on time. Check your records. Expecting a quick resolution.,Billing,High,2023-05-03,Open
+141,I need to transfer my account ownership but the process is not documented. Expecting a quick resolution.,Account,Low,2023-08-05,In Progress
+142,Half of the items in my order are missing. I only received 2 out of 5 items. Expecting a quick resolution.,Delivery,Medium,2023-02-14,In Progress
+143,Two-factor authentication is locked and I cannot access my account at all. Please look into this matter.,Technical Support,Medium,2023-07-21,In Progress
+144,The search function on your platform returns irrelevant results or no results at all. I need help with this issue.,Technical Support,High,2024-07-06,Open
+145,The privacy settings on my account are not saving when I try to update them.,Account,Medium,2023-07-06,Closed
+146,I was transferred between 4 different departments without anyone helping me. This has been going on for too long.,Service Quality,Low,2023-04-09,Open
+147,Someone accessed my account without authorization. I suspect a security breach. I am very disappointed.,Account,Medium,2024-12-30,Open
+148,My replacement order is taking longer than the original order to ship. This needs immediate attention.,Delivery,Low,2023-12-20,Closed
+149,My account was locked without any explanation. I need immediate access. Expecting a quick resolution.,Account,High,2023-03-12,Closed
+150,I cannot link my social media accounts to my profile anymore. I am very disappointed.,Account,High,2024-04-09,In Progress
+151,I requested an account data export but received an incomplete file. I need help with this issue.,Account,High,2023-04-20,In Progress
+152,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. I need help with this issue.,Technical Support,Medium,2023-09-02,Open
+153,I need to transfer my account ownership but the process is not documented. I am very disappointed.,Account,Low,2023-11-02,Closed
+154,The invoice amount does not match what was quoted by your sales team. Please look into this matter.,Billing,Medium,2023-03-11,Open
+155,The parental controls on my account are not restricting content as configured. Please resolve this urgently.,Account,Medium,2023-04-19,Closed
+156,I cannot upload files larger than 5MB even though the limit should be 25MB. Expecting a quick resolution.,Technical Support,Medium,2024-07-29,Open
+157,Your response time to emails is terrible. I waited a week for a simple answer. Please look into this matter.,Service Quality,Low,2023-01-17,Closed
+158,The estimated delivery date on the website was inaccurate by over a week. This needs immediate attention.,Delivery,Medium,2024-08-19,Closed
+159,The website is extremely slow and keeps timing out. I can't complete any transactions. This needs immediate attention.,Technical Support,Low,2024-07-17,Closed
+160,The export feature generates corrupted files. I cannot open the downloaded reports.,Technical Support,Medium,2023-01-23,In Progress
+161,Half of the items in my order are missing. I only received 2 out of 5 items. This has been going on for too long.,Delivery,High,2024-04-16,Closed
+162,I ordered express shipping but the package is coming via standard delivery. I need help with this issue.,Delivery,Medium,2024-10-27,Open
+163,I cancelled my plan last month but I'm still being billed. Please stop the charges. Expecting a quick resolution.,Billing,Medium,2024-01-24,Closed
+164,My replacement order is taking longer than the original order to ship. This needs immediate attention.,Delivery,High,2023-02-27,Closed
+165,The package arrived damaged. The contents inside were completely broken. Please resolve this urgently.,Delivery,Medium,2023-10-14,Closed
+166,My delivery was marked as delivered but I never received it at my address. Expecting a quick resolution.,Delivery,High,2023-11-21,Closed
+167,My refund has been pending for over 30 days. When will it be processed? This has been going on for too long.,Billing,Medium,2024-03-30,Open
+168,The package was left at the wrong address and I had to retrieve it myself. This has been going on for too long.,Delivery,Medium,2023-11-30,Closed
+169,Screen sharing feature freezes during presentations. This is affecting my work.,Technical Support,High,2024-11-05,Open
+170,The mobile app notifications are not working. I'm missing important alerts.,Technical Support,High,2023-05-10,Open
+171,My order shows shipped but the carrier says they never received the package. I am very disappointed.,Delivery,High,2023-04-28,Closed
+172,My account was locked without any explanation. I need immediate access. Please resolve this urgently.,Account,High,2024-06-14,Closed
+173,I cannot link my social media accounts to my profile anymore. Please resolve this urgently.,Account,Medium,2024-01-30,Closed
+174,My delivery was marked as delivered but I never received it at my address. I am very disappointed.,Delivery,Low,2024-07-26,Closed
+175,I need to transfer my account ownership but the process is not documented. Please look into this matter.,Account,Medium,2024-07-31,Open
+176,My account is showing activity from a location I have never been to. Please look into this matter.,Account,High,2023-04-01,Closed
+177,I received the wrong item. The order number matches but the product is different. Please look into this matter.,Delivery,Low,2024-11-21,Closed
+178,My corporate discount is not reflecting on the latest bill. Please correct this. I need help with this issue.,Billing,Low,2024-12-11,Open
+179,Half of the items in my order are missing. I only received 2 out of 5 items.,Delivery,High,2023-09-08,In Progress
+180,The account merge feature is not working. I have two accounts that need combining. Expecting a quick resolution.,Account,Medium,2023-06-23,Closed
+181,I filed a formal complaint two weeks ago and have received no acknowledgment. I need help with this issue.,Service Quality,High,2023-11-17,Closed
+182,Your support team keeps asking me to repeat the same information every time I call. Please look into this matter.,Service Quality,Medium,2023-10-04,In Progress
+183,The price increased without any prior notification. This is unfair to loyal customers. This needs immediate attention.,Billing,High,2024-04-07,Closed
+184,The delivery date was changed twice without notifying me in advance. This has been going on for too long.,Delivery,Low,2023-02-22,Closed
+185,The delivery date was changed twice without notifying me in advance. Please resolve this urgently.,Delivery,High,2023-04-03,In Progress
+186,The price increased without any prior notification. This is unfair to loyal customers. This has been going on for too long.,Billing,Medium,2023-10-06,In Progress
+187,I was transferred between 4 different departments without anyone helping me. Please look into this matter.,Service Quality,Low,2023-05-03,Closed
+188,The privacy settings on my account are not saving when I try to update them. Please resolve this urgently.,Account,High,2024-02-10,Closed
+189,I want to delete my account but there is no option to do so on the website. I am very disappointed.,Account,High,2024-07-02,In Progress
+190,I need an itemized bill breakdown. The total charges seem inflated. Please look into this matter.,Billing,Medium,2024-06-29,Closed
+191,The delivery date was changed twice without notifying me in advance. Please look into this matter.,Delivery,Medium,2023-01-21,Open
+192,My order was supposed to arrive 5 days ago but I still haven't received it. This has been going on for too long.,Delivery,Medium,2024-07-08,In Progress
+193,Your customer service representative was extremely rude and unhelpful during my call. This has been going on for too long.,Service Quality,Medium,2024-08-24,Closed
+194,I see an unauthorized charge on my account for $49.99. I did not make this purchase. I need help with this issue.,Billing,Medium,2024-07-30,Closed
+195,The website is extremely slow and keeps timing out. I can't complete any transactions.,Technical Support,Medium,2023-06-19,Closed
+196,Screen sharing feature freezes during presentations. This is affecting my work. I need help with this issue.,Technical Support,Medium,2023-09-14,In Progress
+197,I see duplicate transactions on my statement. Both need to be investigated. Please look into this matter.,Billing,High,2024-11-12,Open
+198,The account recovery process requires a phone number I no longer have access to. I am very disappointed.,Account,High,2023-02-03,In Progress
+199,My account was suspended even though the payment went through successfully. Expecting a quick resolution.,Billing,Medium,2024-03-02,Open
+200,The parental controls on my account are not restricting content as configured. Please resolve this urgently.,Account,Medium,2023-03-17,Closed
+201,I see an unauthorized charge on my account for $49.99. I did not make this purchase. I need help with this issue.,Billing,High,2024-11-27,In Progress
+202,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,High,2024-07-13,Open
+203,Your response time to emails is terrible. I waited a week for a simple answer. I am very disappointed.,Service Quality,High,2024-11-05,Open
+204,Your support team keeps asking me to repeat the same information every time I call. This needs immediate attention.,Service Quality,Medium,2023-05-18,Closed
+205,The invoice amount does not match what was quoted by your sales team. I need help with this issue.,Billing,Low,2024-10-14,Closed
+206,The technician who visited my home was unprofessional and left without fixing the issue. I am very disappointed.,Service Quality,Medium,2023-07-13,Closed
+207,I filed a formal complaint two weeks ago and have received no acknowledgment. Please resolve this urgently.,Service Quality,Medium,2024-08-02,Closed
+208,I was charged twice for my subscription this month. Please refund the extra amount. This has been going on for too long.,Billing,High,2023-06-24,In Progress
+209,Your staff provided incorrect information which caused me financial loss. Expecting a quick resolution.,Service Quality,Low,2023-05-14,Closed
+210,My account was suspended even though the payment went through successfully. This needs immediate attention.,Billing,Medium,2023-01-09,Closed
+211,Your support team keeps asking me to repeat the same information every time I call. I am very disappointed.,Service Quality,Medium,2024-03-09,Open
+212,The fragile items in my order were not packed properly and arrived broken. This needs immediate attention.,Delivery,Medium,2024-03-01,Open
+213,My account was locked without any explanation. I need immediate access. I need help with this issue.,Account,High,2024-12-14,Closed
+214,The quality assurance on your latest product release is clearly lacking. This needs immediate attention.,Service Quality,High,2023-07-20,Closed
+215,My account shows a balance due but I already paid in full last week.,Billing,High,2023-07-03,Closed
+216,My account tier benefits are not reflecting even though I qualify for gold status. Please look into this matter.,Account,Medium,2024-11-17,Open
+217,Two-factor authentication is locked and I cannot access my account at all. Expecting a quick resolution.,Technical Support,Medium,2024-03-18,In Progress
+218,I cannot upload files larger than 5MB even though the limit should be 25MB.,Technical Support,Low,2023-05-10,Closed
+219,I've contacted support 5 times about the same issue and it's still not resolved. Expecting a quick resolution.,Service Quality,High,2023-06-14,Closed
+220,I was transferred between 4 different departments without anyone helping me. Please look into this matter.,Service Quality,High,2024-04-11,Open
+221,I cannot change my subscription plan from the account management page. This has been going on for too long.,Account,High,2023-08-27,Closed
+222,The estimated delivery date on the website was inaccurate by over a week.,Delivery,Low,2024-01-03,Closed
+223,Service reliability has been terrible with frequent outages this quarter. Expecting a quick resolution.,Service Quality,High,2024-08-21,Open
+224,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. Please resolve this urgently.,Technical Support,High,2024-12-25,Open
+225,The service quality has deteriorated significantly over the past few months. This has been going on for too long.,Service Quality,Medium,2023-12-22,Closed
+226,Someone accessed my account without authorization. I suspect a security breach. Expecting a quick resolution.,Account,High,2023-02-02,Open
+227,The promised features in the plan I purchased are not available. This has been going on for too long.,Service Quality,Low,2023-07-26,Open
+228,The quality of your product has declined since I first purchased it. Please resolve this urgently.,Service Quality,Medium,2023-12-20,Open
+229,My loyalty points disappeared from my account after the system update. I need help with this issue.,Account,High,2024-04-07,Open
+230,The live chat support agent disconnected without resolving my issue. This needs immediate attention.,Service Quality,High,2023-07-16,Open
+231,The API integration keeps returning timeout errors for our application. Expecting a quick resolution.,Technical Support,Medium,2024-04-09,Open
+232,I need an itemized bill breakdown. The total charges seem inflated. Please resolve this urgently.,Billing,Medium,2024-04-28,Closed
+233,Your response time to emails is terrible. I waited a week for a simple answer. Please look into this matter.,Service Quality,High,2024-06-15,In Progress
+234,Someone accessed my account without authorization. I suspect a security breach. This needs immediate attention.,Account,Medium,2024-06-24,Closed
+235,My account was suspended even though the payment went through successfully. I am very disappointed.,Billing,High,2024-10-18,Closed
+236,The estimated delivery date on the website was inaccurate by over a week. This needs immediate attention.,Delivery,Low,2024-06-25,In Progress
+237,The gift wrapping I paid extra for was not included in the delivery.,Delivery,Low,2023-07-28,Closed
+238,My account is showing activity from a location I have never been to. I need help with this issue.,Account,Medium,2024-04-30,In Progress
+239,My account profile information was changed without my knowledge. I am very disappointed.,Account,Medium,2023-02-16,Closed
+240,The package arrived damaged. The contents inside were completely broken. I am very disappointed.,Delivery,High,2024-09-06,Open
+241,I cancelled my plan last month but I'm still being billed. Please stop the charges. This has been going on for too long.,Billing,High,2023-08-27,Closed
+242,My account was locked without any explanation. I need immediate access. Please resolve this urgently.,Account,Low,2023-08-01,Open
+243,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please look into this matter.,Delivery,Medium,2024-07-25,Closed
+244,The price increased without any prior notification. This is unfair to loyal customers. Please resolve this urgently.,Billing,High,2024-06-07,Closed
+245,The technician who visited my home was unprofessional and left without fixing the issue.,Service Quality,Medium,2023-10-11,Open
+246,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please look into this matter.,Delivery,Medium,2024-03-22,Closed
+247,My account tier benefits are not reflecting even though I qualify for gold status.,Account,Medium,2024-02-04,In Progress
+248,The service quality has deteriorated significantly over the past few months.,Service Quality,Low,2024-04-14,Open
+249,Your team promised a callback within 24 hours but nobody called me back. Please resolve this urgently.,Service Quality,High,2024-07-20,Closed
+250,My order was supposed to arrive 5 days ago but I still haven't received it. I am very disappointed.,Delivery,Medium,2024-07-03,Closed
+251,I filed a formal complaint two weeks ago and have received no acknowledgment.,Service Quality,High,2024-11-14,Closed
+252,Your response time to emails is terrible. I waited a week for a simple answer. I am very disappointed.,Service Quality,Medium,2024-03-06,In Progress
+253,I've been waiting on hold for over 45 minutes. This is unacceptable wait time. This has been going on for too long.,Service Quality,Medium,2024-05-21,In Progress
+254,I cannot add a secondary user to my account as the option is greyed out. This has been going on for too long.,Account,High,2024-10-16,In Progress
+255,The price increased without any prior notification. This is unfair to loyal customers. Please resolve this urgently.,Billing,Low,2024-06-03,Closed
+256,My account was suspended even though the payment went through successfully. This has been going on for too long.,Billing,Medium,2024-03-16,Closed
+257,My account profile information was changed without my knowledge. Please look into this matter.,Account,High,2024-09-19,In Progress
+258,My refund has been pending for over 30 days. When will it be processed?,Billing,Medium,2024-03-13,Closed
+259,The online help documentation is outdated and doesn't match the current interface. Please look into this matter.,Service Quality,Low,2023-07-11,Open
+260,Auto-save is not working and I lost 2 hours of work. Very frustrating. Expecting a quick resolution.,Technical Support,High,2023-08-14,Closed
+261,My order shows shipped but the carrier says they never received the package. I need help with this issue.,Delivery,High,2024-05-13,Closed
+262,I ordered express shipping but the package is coming via standard delivery. Please resolve this urgently.,Delivery,High,2023-05-19,Closed
+263,The estimated delivery date on the website was inaccurate by over a week. I need help with this issue.,Delivery,Medium,2023-08-31,In Progress
+264,The delivery date was changed twice without notifying me in advance. This needs immediate attention.,Delivery,Low,2023-09-19,Closed
+265,The API integration keeps returning timeout errors for our application. This has been going on for too long.,Technical Support,High,2024-05-27,Closed
+266,The promised features in the plan I purchased are not available. This needs immediate attention.,Service Quality,Medium,2023-12-19,Open
+267,I received the wrong item. The order number matches but the product is different. I need help with this issue.,Delivery,High,2023-10-12,Open
+268,My account tier benefits are not reflecting even though I qualify for gold status.,Account,High,2024-04-05,In Progress
+269,The package was left at the wrong address and I had to retrieve it myself. This has been going on for too long.,Delivery,Medium,2024-05-26,In Progress
+270,I cannot change my subscription plan from the account management page. Please look into this matter.,Account,High,2024-09-11,Closed
+271,The account verification process keeps failing even with correct documents. I am very disappointed.,Account,High,2024-05-09,Closed
+272,The account verification process keeps failing even with correct documents. Expecting a quick resolution.,Account,High,2024-07-15,Open
+273,Your team promised a callback within 24 hours but nobody called me back.,Service Quality,Low,2023-02-19,Closed
+274,The parental controls on my account are not restricting content as configured. Please look into this matter.,Account,Medium,2023-04-13,In Progress
+275,The account verification process keeps failing even with correct documents. This needs immediate attention.,Account,High,2023-01-18,Open
+276,The auto-renewal charged my card without sending a reminder email first. Please resolve this urgently.,Billing,Medium,2024-01-03,Open
+277,The fragile items in my order were not packed properly and arrived broken. I need help with this issue.,Delivery,Medium,2023-02-22,Closed
+278,Your response time to emails is terrible. I waited a week for a simple answer. Please look into this matter.,Service Quality,Medium,2024-08-14,In Progress
+279,I've contacted support 5 times about the same issue and it's still not resolved. This needs immediate attention.,Service Quality,Medium,2024-07-10,In Progress
+280,The promotional discount was not applied to my latest invoice. I was promised 20% off. I need help with this issue.,Billing,Medium,2023-05-07,Open
+281,I cancelled my plan last month but I'm still being billed. Please stop the charges. This needs immediate attention.,Billing,Medium,2023-02-02,In Progress
+282,I requested an account data export but received an incomplete file. Expecting a quick resolution.,Account,Medium,2024-12-19,Closed
+283,The print function is not working correctly. Pages come out blank or garbled. I need help with this issue.,Technical Support,Low,2024-01-28,In Progress
+284,The currency conversion rate applied to my bill is incorrect. Please look into this matter.,Billing,Medium,2024-09-16,Closed
+285,I cannot change my subscription plan from the account management page. Expecting a quick resolution.,Account,High,2023-04-28,In Progress
+286,The delivery person did not ring the doorbell and left a missed delivery notice.,Delivery,High,2024-09-20,Open
+287,I see duplicate transactions on my statement. Both need to be investigated.,Billing,High,2024-04-15,Closed
+288,I was transferred between 4 different departments without anyone helping me. This needs immediate attention.,Service Quality,High,2024-09-09,Open
+289,My corporate discount is not reflecting on the latest bill. Please correct this. Please resolve this urgently.,Billing,High,2023-11-19,In Progress
+290,The tracking information hasn't updated in 4 days. Where is my package? This has been going on for too long.,Delivery,Medium,2023-05-18,Open
+291,I need to transfer my account ownership but the process is not documented. Expecting a quick resolution.,Account,Low,2023-02-09,Open
+292,The delivery window given was 8am-8pm which is way too broad to be useful. I am very disappointed.,Delivery,High,2024-10-05,Open
+293,I cannot add a secondary user to my account as the option is greyed out. This has been going on for too long.,Account,Low,2023-06-13,Closed
+294,I ordered express shipping but the package is coming via standard delivery. I am very disappointed.,Delivery,Medium,2024-12-11,Open
+295,My order was supposed to arrive 5 days ago but I still haven't received it. Please look into this matter.,Delivery,Medium,2023-06-25,Closed
+296,The service quality has deteriorated significantly over the past few months. I am very disappointed.,Service Quality,High,2023-11-04,Closed
+297,Screen sharing feature freezes during presentations. This is affecting my work. I am very disappointed.,Technical Support,Low,2023-11-24,Open
+298,Your response time to emails is terrible. I waited a week for a simple answer. Expecting a quick resolution.,Service Quality,High,2023-07-11,In Progress
+299,Your software is not compatible with the latest OS update. Please fix this. Please look into this matter.,Technical Support,High,2023-10-12,Open
+300,I was charged full price during the free trial period. This is a billing error.,Billing,Medium,2024-07-06,Open
+301,My account tier benefits are not reflecting even though I qualify for gold status. Expecting a quick resolution.,Account,Medium,2024-02-09,Closed
+302,The delivery date was changed twice without notifying me in advance.,Delivery,High,2024-10-24,Closed
+303,The service quality has deteriorated significantly over the past few months. I am very disappointed.,Service Quality,Medium,2023-07-21,In Progress
+304,Your response time to emails is terrible. I waited a week for a simple answer. I am very disappointed.,Service Quality,High,2023-05-05,In Progress
+305,Your staff provided incorrect information which caused me financial loss. I am very disappointed.,Service Quality,Medium,2023-05-21,In Progress
+306,I was transferred between 4 different departments without anyone helping me. I am very disappointed.,Service Quality,Medium,2023-10-15,Closed
+307,Your staff provided incorrect information which caused me financial loss. Please resolve this urgently.,Service Quality,High,2024-08-14,Open
+308,The service quality has deteriorated significantly over the past few months. Please resolve this urgently.,Service Quality,Medium,2023-03-05,Closed
+309,I see duplicate transactions on my statement. Both need to be investigated. This has been going on for too long.,Billing,High,2024-10-04,Closed
+310,I was transferred between 4 different departments without anyone helping me.,Service Quality,Medium,2023-09-25,Open
+311,Your support team keeps asking me to repeat the same information every time I call. Expecting a quick resolution.,Service Quality,Medium,2024-06-28,Closed
+312,My corporate discount is not reflecting on the latest bill. Please correct this. Please look into this matter.,Billing,Low,2024-03-04,Closed
+313,My account is showing activity from a location I have never been to.,Account,High,2024-04-09,Closed
+314,I received the wrong item. The order number matches but the product is different. Please resolve this urgently.,Delivery,Medium,2023-05-26,Closed
+315,I cancelled my plan last month but I'm still being billed. Please stop the charges. Please look into this matter.,Billing,High,2024-11-07,Closed
+316,I've been waiting 3 weeks for an international shipment that was quoted 7 days. I need help with this issue.,Delivery,Low,2023-02-01,In Progress
+317,The service outage lasted 3 days and there was no communication from your team. Please resolve this urgently.,Service Quality,High,2024-02-18,In Progress
+318,The account recovery process requires a phone number I no longer have access to. I am very disappointed.,Account,High,2023-02-16,Closed
+319,I received a late payment fee even though I paid on time. Check your records. I am very disappointed.,Billing,Medium,2023-04-30,Closed
+320,My loyalty points disappeared from my account after the system update. I need help with this issue.,Account,High,2023-09-30,In Progress
+321,I cannot change my subscription plan from the account management page. I am very disappointed.,Account,High,2023-05-16,Closed
+322,The delivery driver left the package in the rain without any protection. This needs immediate attention.,Delivery,Low,2023-05-11,Open
+323,I received the wrong item. The order number matches but the product is different. This has been going on for too long.,Delivery,High,2024-10-19,In Progress
+324,My loyalty points disappeared from my account after the system update. I need help with this issue.,Account,High,2023-01-17,In Progress
+325,I received the wrong item. The order number matches but the product is different. Please resolve this urgently.,Delivery,High,2023-04-16,Open
+326,The price increased without any prior notification. This is unfair to loyal customers. This needs immediate attention.,Billing,Low,2024-09-03,Open
+327,The software update broke several features that were working fine before. Expecting a quick resolution.,Technical Support,Low,2023-03-13,Closed
+328,The calendar integration with my email client stopped working after the update. I need help with this issue.,Technical Support,Medium,2023-06-25,Closed
+329,The fragile items in my order were not packed properly and arrived broken. Please resolve this urgently.,Delivery,High,2023-11-04,Open
+330,I cannot link my social media accounts to my profile anymore. Expecting a quick resolution.,Account,Medium,2024-07-15,Closed
+331,Your response time to emails is terrible. I waited a week for a simple answer. This has been going on for too long.,Service Quality,Low,2024-04-01,Closed
+332,The delivery window given was 8am-8pm which is way too broad to be useful. Please resolve this urgently.,Delivery,Medium,2023-03-07,In Progress
+333,The tracking information hasn't updated in 4 days. Where is my package? I am very disappointed.,Delivery,Low,2024-11-17,Open
+334,Your company's communication during the maintenance window was poor. Expecting a quick resolution.,Service Quality,High,2023-10-30,Closed
+335,I was charged twice for my subscription this month. Please refund the extra amount. I am very disappointed.,Billing,Medium,2023-09-08,Closed
+336,My bill shows charges for services I never subscribed to. This is unacceptable. This needs immediate attention.,Billing,Medium,2024-02-16,In Progress
+337,I was charged full price during the free trial period. This is a billing error. Please resolve this urgently.,Billing,High,2023-10-30,Open
+338,The invoice amount does not match what was quoted by your sales team. This has been going on for too long.,Billing,High,2024-10-15,Open
+339,I was charged full price during the free trial period. This is a billing error. Please look into this matter.,Billing,Medium,2024-08-21,In Progress
+340,I need to transfer my account ownership but the process is not documented. This needs immediate attention.,Account,Medium,2023-03-05,Closed
+341,My account history and past orders have been wiped clean after the migration. I need help with this issue.,Account,Medium,2024-07-18,In Progress
+342,The account verification process keeps failing even with correct documents. This needs immediate attention.,Account,Medium,2023-08-28,Open
+343,I was downgraded from premium to basic without any notification or consent. Please look into this matter.,Account,High,2023-09-09,Closed
+344,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck.,Technical Support,High,2023-09-08,In Progress
+345,Someone accessed my account without authorization. I suspect a security breach. Expecting a quick resolution.,Account,Medium,2024-06-04,Closed
+346,I cancelled my plan last month but I'm still being billed. Please stop the charges.,Billing,High,2023-09-20,Closed
+347,I was transferred between 4 different departments without anyone helping me.,Service Quality,Low,2023-04-02,Open
+348,The privacy settings on my account are not saving when I try to update them. Please resolve this urgently.,Account,Medium,2024-05-05,Open
+349,I've contacted support 5 times about the same issue and it's still not resolved. This needs immediate attention.,Service Quality,Medium,2024-07-18,Open
+350,The parental controls on my account are not restricting content as configured. Expecting a quick resolution.,Account,High,2023-04-26,Closed
+351,I cancelled my plan last month but I'm still being billed. Please stop the charges. I am very disappointed.,Billing,Medium,2023-08-15,In Progress
+352,The delivery date was changed twice without notifying me in advance.,Delivery,Medium,2024-08-02,Closed
+353,I want to delete my account but there is no option to do so on the website. This needs immediate attention.,Account,High,2023-05-25,Closed
+354,I need an itemized bill breakdown. The total charges seem inflated. This needs immediate attention.,Billing,Medium,2024-05-29,Closed
+355,The website is extremely slow and keeps timing out. I can't complete any transactions. This needs immediate attention.,Technical Support,Medium,2024-12-18,In Progress
+356,My loyalty points disappeared from my account after the system update. Please resolve this urgently.,Account,High,2024-04-12,In Progress
+357,Your company's communication during the maintenance window was poor. Please look into this matter.,Service Quality,High,2023-03-04,Open
+358,My account is showing activity from a location I have never been to. Please resolve this urgently.,Account,Medium,2023-04-24,Closed
+359,I expect better service for the premium price I'm paying for your subscription. Please look into this matter.,Service Quality,Medium,2024-11-12,Closed
+360,My refund has been pending for over 30 days. When will it be processed? I am very disappointed.,Billing,High,2024-02-04,Closed
+361,I received a late payment fee even though I paid on time. Check your records. Expecting a quick resolution.,Billing,High,2024-10-16,Closed
+362,The calendar integration with my email client stopped working after the update. This needs immediate attention.,Technical Support,Low,2023-04-04,Open
+363,Your response time to emails is terrible. I waited a week for a simple answer. I am very disappointed.,Service Quality,Low,2024-06-17,Closed
+364,The delivery driver left the package in the rain without any protection. This needs immediate attention.,Delivery,High,2023-12-26,Open
+365,I need an itemized bill breakdown. The total charges seem inflated. This has been going on for too long.,Billing,Medium,2023-04-15,Open
+366,The account recovery process requires a phone number I no longer have access to. Please resolve this urgently.,Account,High,2023-02-18,Open
+367,I received the wrong item. The order number matches but the product is different. I need help with this issue.,Delivery,Low,2024-08-30,Closed
+368,My account was suspended even though the payment went through successfully. I am very disappointed.,Billing,High,2024-12-15,Open
+369,The service quality has deteriorated significantly over the past few months. Please look into this matter.,Service Quality,High,2023-04-07,Closed
+370,I see an unauthorized charge on my account for $49.99. I did not make this purchase. Please resolve this urgently.,Billing,Medium,2023-01-13,Open
+371,Your support team keeps asking me to repeat the same information every time I call. I need help with this issue.,Service Quality,Medium,2024-03-21,Open
+372,I cannot link my social media accounts to my profile anymore. I need help with this issue.,Account,High,2023-12-20,Open
+373,The search function on your platform returns irrelevant results or no results at all. Please resolve this urgently.,Technical Support,Low,2024-02-29,In Progress
+374,My account shows a balance due but I already paid in full last week. This needs immediate attention.,Billing,Medium,2023-09-07,Open
+375,The package was left at the wrong address and I had to retrieve it myself. I am very disappointed.,Delivery,Low,2023-01-07,Open
+376,The delivery date was changed twice without notifying me in advance. Please look into this matter.,Delivery,High,2023-03-31,In Progress
+377,The account merge feature is not working. I have two accounts that need combining. I need help with this issue.,Account,Medium,2024-03-19,Open
+378,My loyalty points disappeared from my account after the system update.,Account,Medium,2024-09-26,In Progress
+379,I see duplicate transactions on my statement. Both need to be investigated. I need help with this issue.,Billing,High,2024-09-13,Open
+380,The account merge feature is not working. I have two accounts that need combining. Please look into this matter.,Account,High,2023-06-11,In Progress
+381,I expect better service for the premium price I'm paying for your subscription. This needs immediate attention.,Service Quality,High,2024-04-28,Closed
+382,My replacement order is taking longer than the original order to ship. This has been going on for too long.,Delivery,High,2024-05-14,Open
+383,The technician who visited my home was unprofessional and left without fixing the issue. Expecting a quick resolution.,Service Quality,Low,2024-08-05,Open
+384,My loyalty points disappeared from my account after the system update. I need help with this issue.,Account,High,2023-11-15,Closed
+385,The quality assurance on your latest product release is clearly lacking.,Service Quality,High,2023-06-29,Closed
+386,The package arrived damaged. The contents inside were completely broken. I am very disappointed.,Delivery,High,2024-03-26,Open
+387,Half of the items in my order are missing. I only received 2 out of 5 items. I need help with this issue.,Delivery,High,2023-12-02,In Progress
+388,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,Low,2024-03-29,Closed
+389,The export feature generates corrupted files. I cannot open the downloaded reports. Please resolve this urgently.,Technical Support,High,2023-08-16,Closed
+390,The chat feature is not loading. I see a blank screen when I click on messages. This needs immediate attention.,Technical Support,High,2023-01-10,Closed
+391,Your staff provided incorrect information which caused me financial loss. This needs immediate attention.,Service Quality,High,2023-10-05,Open
+392,The calendar integration with my email client stopped working after the update. Please resolve this urgently.,Technical Support,High,2023-03-29,Open
+393,Your software is not compatible with the latest OS update. Please fix this. Expecting a quick resolution.,Technical Support,High,2023-03-17,In Progress
+394,I've been waiting on hold for over 45 minutes. This is unacceptable wait time. Please resolve this urgently.,Service Quality,Medium,2024-09-02,Closed
+395,I expect better service for the premium price I'm paying for your subscription. I need help with this issue.,Service Quality,Low,2023-05-19,Open
+396,The package arrived damaged. The contents inside were completely broken. Please resolve this urgently.,Delivery,Low,2023-03-04,Closed
+397,My loyalty points disappeared from my account after the system update. I am very disappointed.,Account,Low,2024-04-25,Closed
+398,The live chat support agent disconnected without resolving my issue. Please resolve this urgently.,Service Quality,Low,2024-01-12,Open
+399,I cancelled my plan last month but I'm still being billed. Please stop the charges. Expecting a quick resolution.,Billing,High,2024-06-11,Open
+400,I see an unauthorized charge on my account for $49.99. I did not make this purchase. I need help with this issue.,Billing,Medium,2023-07-25,Closed
+401,The delivery person did not ring the doorbell and left a missed delivery notice. This needs immediate attention.,Delivery,Medium,2023-05-27,Open
+402,I received the wrong item. The order number matches but the product is different. Please look into this matter.,Delivery,High,2024-11-14,Open
+403,The fragile items in my order were not packed properly and arrived broken. This needs immediate attention.,Delivery,High,2023-12-24,Closed
+404,Your software is not compatible with the latest OS update. Please fix this. This has been going on for too long.,Technical Support,Medium,2024-02-25,In Progress
+405,The estimated delivery date on the website was inaccurate by over a week.,Delivery,Low,2023-03-16,In Progress
+406,I see duplicate transactions on my statement. Both need to be investigated. This needs immediate attention.,Billing,Low,2023-05-23,In Progress
+407,I cancelled my plan last month but I'm still being billed. Please stop the charges. Please look into this matter.,Billing,Low,2024-07-08,Closed
+408,My loyalty points disappeared from my account after the system update. Expecting a quick resolution.,Account,High,2024-07-28,In Progress
+409,The service quality has deteriorated significantly over the past few months. This has been going on for too long.,Service Quality,Medium,2023-10-13,In Progress
+410,My package was returned to sender without any attempt to deliver it.,Delivery,Low,2023-04-21,Closed
+411,The privacy settings on my account are not saving when I try to update them.,Account,High,2023-02-16,Open
+412,The online help documentation is outdated and doesn't match the current interface. This needs immediate attention.,Service Quality,Medium,2024-05-15,In Progress
+413,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,Medium,2023-08-07,Open
+414,The website is extremely slow and keeps timing out. I can't complete any transactions. Expecting a quick resolution.,Technical Support,High,2024-09-26,Closed
+415,My delivery was marked as delivered but I never received it at my address. I need help with this issue.,Delivery,Low,2023-02-06,Open
+416,The tracking information hasn't updated in 4 days. Where is my package? This needs immediate attention.,Delivery,Medium,2024-12-14,In Progress
+417,I cannot upload files larger than 5MB even though the limit should be 25MB. This has been going on for too long.,Technical Support,Medium,2024-04-13,Open
+418,My loyalty points disappeared from my account after the system update. Expecting a quick resolution.,Account,Low,2024-05-18,Closed
+419,My account is showing activity from a location I have never been to. I need help with this issue.,Account,High,2024-09-12,Closed
+420,Auto-save is not working and I lost 2 hours of work. Very frustrating. I am very disappointed.,Technical Support,Medium,2023-11-25,Open
+421,The service quality has deteriorated significantly over the past few months. I need help with this issue.,Service Quality,Medium,2024-06-30,Open
+422,I requested an account data export but received an incomplete file. This needs immediate attention.,Account,Medium,2023-08-26,In Progress
+423,I was downgraded from premium to basic without any notification or consent. I need help with this issue.,Account,Medium,2024-10-02,Open
+424,Your response time to emails is terrible. I waited a week for a simple answer.,Service Quality,Low,2024-11-14,In Progress
+425,Your response time to emails is terrible. I waited a week for a simple answer. Please resolve this urgently.,Service Quality,High,2024-08-18,Open
+426,The website is extremely slow and keeps timing out. I can't complete any transactions. Please resolve this urgently.,Technical Support,Medium,2024-06-27,Closed
+427,The account verification process keeps failing even with correct documents. Please resolve this urgently.,Account,High,2023-05-18,Open
+428,My bill shows charges for services I never subscribed to. This is unacceptable.,Billing,Medium,2023-04-06,Open
+429,The chat feature is not loading. I see a blank screen when I click on messages. This needs immediate attention.,Technical Support,High,2024-01-18,Closed
+430,The API integration keeps returning timeout errors for our application. Please look into this matter.,Technical Support,Medium,2024-08-11,In Progress
+431,The API integration keeps returning timeout errors for our application. Please look into this matter.,Technical Support,Medium,2023-04-03,Closed
+432,I was charged for a premium feature that I never opted into. Remove the charge. Expecting a quick resolution.,Billing,Low,2024-08-10,Open
+433,Data sync between desktop and mobile versions is not working properly. This has been going on for too long.,Technical Support,High,2023-05-21,Closed
+434,Your staff provided incorrect information which caused me financial loss. Expecting a quick resolution.,Service Quality,Medium,2024-08-03,In Progress
+435,My device is not connecting to your service. I've followed all troubleshooting steps.,Technical Support,High,2023-11-13,Open
+436,My account was suspended even though the payment went through successfully. I am very disappointed.,Billing,Medium,2024-10-05,Closed
+437,Half of the items in my order are missing. I only received 2 out of 5 items. I am very disappointed.,Delivery,Low,2024-11-10,In Progress
+438,I cannot change my subscription plan from the account management page. Please look into this matter.,Account,High,2023-12-26,Closed
+439,Screen sharing feature freezes during presentations. This is affecting my work. This has been going on for too long.,Technical Support,High,2023-01-21,In Progress
+440,The mobile app notifications are not working. I'm missing important alerts. This has been going on for too long.,Technical Support,Low,2023-12-05,Open
+441,I received the wrong item. The order number matches but the product is different. This needs immediate attention.,Delivery,Low,2023-12-23,Closed
+442,Video calls keep dropping after 5 minutes. My internet connection is fine. I need help with this issue.,Technical Support,High,2024-05-04,Closed
+443,I was charged full price during the free trial period. This is a billing error. I need help with this issue.,Billing,High,2024-10-24,In Progress
+444,I received a late payment fee even though I paid on time. Check your records. This has been going on for too long.,Billing,Medium,2024-12-09,Closed
+445,I was downgraded from premium to basic without any notification or consent. I am very disappointed.,Account,Low,2023-05-21,Closed
+446,The chat feature is not loading. I see a blank screen when I click on messages. Expecting a quick resolution.,Technical Support,High,2024-04-12,Closed
+447,The gift wrapping I paid extra for was not included in the delivery. I need help with this issue.,Delivery,Medium,2023-12-27,In Progress
+448,I ordered express shipping but the package is coming via standard delivery. Please look into this matter.,Delivery,Medium,2023-09-22,Open
+449,The calendar integration with my email client stopped working after the update. Expecting a quick resolution.,Technical Support,Medium,2023-03-29,Closed
+450,I cancelled my plan last month but I'm still being billed. Please stop the charges. Please look into this matter.,Billing,Medium,2024-07-21,In Progress
+451,The billing cycle changed without my consent. I want to go back to monthly billing. Please resolve this urgently.,Billing,Medium,2023-02-16,Closed
+452,I'm getting error code 502 whenever I try to access my dashboard. Please resolve this urgently.,Technical Support,High,2023-09-11,Open
+453,The privacy settings on my account are not saving when I try to update them. Please look into this matter.,Account,Medium,2023-05-11,In Progress
+454,The privacy settings on my account are not saving when I try to update them. Expecting a quick resolution.,Account,Medium,2023-07-23,Closed
+455,The promised features in the plan I purchased are not available. Expecting a quick resolution.,Service Quality,Medium,2024-01-31,Open
+456,The software update broke several features that were working fine before. This needs immediate attention.,Technical Support,Medium,2023-07-08,Open
+457,The calendar integration with my email client stopped working after the update. I need help with this issue.,Technical Support,Medium,2023-04-24,Closed
+458,Your team promised a callback within 24 hours but nobody called me back. Please resolve this urgently.,Service Quality,High,2023-01-06,Open
+459,The gift wrapping I paid extra for was not included in the delivery. I am very disappointed.,Delivery,High,2023-10-09,Closed
+460,My account profile information was changed without my knowledge. Expecting a quick resolution.,Account,Medium,2023-04-04,Closed
+461,I see duplicate transactions on my statement. Both need to be investigated. Please look into this matter.,Billing,High,2023-09-25,Open
+462,I received the wrong item. The order number matches but the product is different. Please look into this matter.,Delivery,Low,2024-09-30,In Progress
+463,I received a late payment fee even though I paid on time. Check your records. This has been going on for too long.,Billing,Low,2023-03-10,Closed
+464,The privacy settings on my account are not saving when I try to update them. Please resolve this urgently.,Account,Medium,2024-11-28,In Progress
+465,My account profile information was changed without my knowledge. Please look into this matter.,Account,Medium,2023-03-25,In Progress
+466,The API integration keeps returning timeout errors for our application. Please look into this matter.,Technical Support,High,2023-10-13,Open
+467,Your team promised a callback within 24 hours but nobody called me back. I am very disappointed.,Service Quality,Low,2024-06-03,Closed
+468,I was charged for a premium feature that I never opted into. Remove the charge. I need help with this issue.,Billing,Medium,2023-05-21,In Progress
+469,The account verification process keeps failing even with correct documents.,Account,Low,2024-09-03,In Progress
+470,The currency conversion rate applied to my bill is incorrect. I need help with this issue.,Billing,Medium,2024-11-26,In Progress
+471,I was charged full price during the free trial period. This is a billing error. Please look into this matter.,Billing,High,2024-07-21,In Progress
+472,I see an unauthorized charge on my account for $49.99. I did not make this purchase.,Billing,High,2024-01-14,Closed
+473,The service quality has deteriorated significantly over the past few months. Expecting a quick resolution.,Service Quality,Low,2023-02-05,Closed
+474,I was charged twice for my subscription this month. Please refund the extra amount. Please look into this matter.,Billing,Low,2023-05-14,Open
+475,Half of the items in my order are missing. I only received 2 out of 5 items. Please resolve this urgently.,Delivery,High,2023-12-25,In Progress
+476,The account merge feature is not working. I have two accounts that need combining. I am very disappointed.,Account,High,2023-04-10,In Progress
+477,The service quality has deteriorated significantly over the past few months. Expecting a quick resolution.,Service Quality,Medium,2023-07-09,Closed
+478,The software update broke several features that were working fine before.,Technical Support,High,2024-03-09,Open
+479,The chat feature is not loading. I see a blank screen when I click on messages. This has been going on for too long.,Technical Support,Medium,2024-02-28,In Progress
+480,Video calls keep dropping after 5 minutes. My internet connection is fine.,Technical Support,Medium,2023-01-24,Open
+481,The delivery driver left the package in the rain without any protection. This needs immediate attention.,Delivery,Medium,2023-09-04,Closed
+482,I cannot log into my account. The password reset link is not working either. I am very disappointed.,Technical Support,Medium,2024-01-09,Open
+483,My replacement order is taking longer than the original order to ship. Please resolve this urgently.,Delivery,High,2024-01-23,In Progress
+484,The search function on your platform returns irrelevant results or no results at all. Please look into this matter.,Technical Support,Medium,2024-05-12,Closed
+485,The chat feature is not loading. I see a blank screen when I click on messages. This has been going on for too long.,Technical Support,High,2024-07-28,Open
+486,My replacement order is taking longer than the original order to ship. I need help with this issue.,Delivery,Low,2023-09-29,Closed
+487,I received the wrong item. The order number matches but the product is different. I need help with this issue.,Delivery,Medium,2023-05-12,In Progress
+488,I see duplicate transactions on my statement. Both need to be investigated. Please resolve this urgently.,Billing,Medium,2024-01-17,Closed
+489,The service quality has deteriorated significantly over the past few months. Please look into this matter.,Service Quality,High,2023-01-13,Open
+490,The print function is not working correctly. Pages come out blank or garbled. Please resolve this urgently.,Technical Support,Medium,2023-10-01,Open
+491,Video calls keep dropping after 5 minutes. My internet connection is fine. Please look into this matter.,Technical Support,High,2024-12-15,Open
+492,My bill shows charges for services I never subscribed to. This is unacceptable. Expecting a quick resolution.,Billing,High,2024-09-21,Closed
+493,I expect better service for the premium price I'm paying for your subscription. Expecting a quick resolution.,Service Quality,Low,2024-04-07,Open
+494,The mobile app notifications are not working. I'm missing important alerts. I need help with this issue.,Technical Support,Medium,2024-12-19,Open
+495,The parental controls on my account are not restricting content as configured. This has been going on for too long.,Account,High,2023-05-28,Closed
+496,The invoice amount does not match what was quoted by your sales team. This has been going on for too long.,Billing,High,2023-03-29,Closed
+497,I've contacted support 5 times about the same issue and it's still not resolved. This needs immediate attention.,Service Quality,High,2024-12-09,Open
+498,Your response time to emails is terrible. I waited a week for a simple answer.,Service Quality,High,2023-11-23,Open
+499,I've contacted support 5 times about the same issue and it's still not resolved.,Service Quality,Low,2023-11-23,Closed
+500,The account recovery process requires a phone number I no longer have access to.,Account,High,2023-12-06,In Progress
+501,The delivery date was changed twice without notifying me in advance. Expecting a quick resolution.,Delivery,Low,2023-11-03,Open
+502,The live chat support agent disconnected without resolving my issue. I am very disappointed.,Service Quality,High,2024-07-23,Closed
+503,Your customer service representative was extremely rude and unhelpful during my call. Please look into this matter.,Service Quality,High,2023-11-13,Closed
+504,The delivery driver left the package in the rain without any protection.,Delivery,Medium,2023-04-14,Closed
+505,I've been waiting 3 weeks for an international shipment that was quoted 7 days. I need help with this issue.,Delivery,Medium,2024-04-27,In Progress
+506,The mobile app notifications are not working. I'm missing important alerts. Please look into this matter.,Technical Support,Medium,2024-04-20,Open
+507,The fragile items in my order were not packed properly and arrived broken. Expecting a quick resolution.,Delivery,High,2023-12-04,Open
+508,The tracking information hasn't updated in 4 days. Where is my package? Please look into this matter.,Delivery,Low,2023-03-28,Closed
+509,The privacy settings on my account are not saving when I try to update them. I need help with this issue.,Account,Low,2024-06-20,In Progress
+510,I was transferred between 4 different departments without anyone helping me. I am very disappointed.,Service Quality,High,2024-06-10,In Progress
+511,I received a late payment fee even though I paid on time. Check your records. I am very disappointed.,Billing,High,2023-08-21,Open
+512,I was transferred between 4 different departments without anyone helping me. This has been going on for too long.,Service Quality,Medium,2024-12-07,Closed
+513,I cannot change my subscription plan from the account management page. I need help with this issue.,Account,High,2024-11-03,Closed
+514,I received a late payment fee even though I paid on time. Check your records. Please resolve this urgently.,Billing,Medium,2024-01-25,Open
+515,Half of the items in my order are missing. I only received 2 out of 5 items. Expecting a quick resolution.,Delivery,Low,2023-12-14,In Progress
+516,Your staff provided incorrect information which caused me financial loss. This needs immediate attention.,Service Quality,Medium,2024-05-14,Closed
+517,The calendar integration with my email client stopped working after the update. Expecting a quick resolution.,Technical Support,Low,2024-10-12,Closed
+518,Your software is not compatible with the latest OS update. Please fix this. This needs immediate attention.,Technical Support,Low,2024-07-22,Closed
+519,My package was returned to sender without any attempt to deliver it. I am very disappointed.,Delivery,High,2024-03-04,In Progress
+520,The online help documentation is outdated and doesn't match the current interface. I am very disappointed.,Service Quality,Medium,2023-03-09,Closed
+521,I was charged full price during the free trial period. This is a billing error. Expecting a quick resolution.,Billing,Medium,2023-06-29,In Progress
+522,The account verification process keeps failing even with correct documents. This has been going on for too long.,Account,High,2024-12-31,Closed
+523,I'm getting error code 502 whenever I try to access my dashboard. I am very disappointed.,Technical Support,High,2023-10-14,Open
+524,Your customer service representative was extremely rude and unhelpful during my call. I need help with this issue.,Service Quality,Low,2023-10-07,Open
+525,The package arrived damaged. The contents inside were completely broken. Expecting a quick resolution.,Delivery,Medium,2024-01-18,In Progress
+526,Perishable items in my order arrived spoiled due to delayed delivery. This has been going on for too long.,Delivery,Low,2023-10-22,Closed
+527,I see an unauthorized charge on my account for $49.99. I did not make this purchase. I am very disappointed.,Billing,High,2023-04-06,Closed
+528,I requested an account data export but received an incomplete file. I am very disappointed.,Account,High,2024-08-05,Open
+529,The search function on your platform returns irrelevant results or no results at all. Please look into this matter.,Technical Support,High,2023-08-24,Closed
+530,My account tier benefits are not reflecting even though I qualify for gold status. I need help with this issue.,Account,Low,2024-03-16,Closed
+531,My account is showing activity from a location I have never been to. I am very disappointed.,Account,High,2023-07-17,Closed
+532,My account was locked without any explanation. I need immediate access. Please look into this matter.,Account,Medium,2023-02-28,Closed
+533,Screen sharing feature freezes during presentations. This is affecting my work. This has been going on for too long.,Technical Support,Medium,2024-02-11,Closed
+534,My corporate discount is not reflecting on the latest bill. Please correct this. Please resolve this urgently.,Billing,Low,2023-05-25,In Progress
+535,The quality of your product has declined since I first purchased it. This needs immediate attention.,Service Quality,Medium,2023-11-12,Closed
+536,The technician who visited my home was unprofessional and left without fixing the issue.,Service Quality,Low,2023-12-27,Closed
+537,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,Medium,2023-12-12,In Progress
+538,The export feature generates corrupted files. I cannot open the downloaded reports. This has been going on for too long.,Technical Support,Low,2023-09-29,Open
+539,My order shows shipped but the carrier says they never received the package. I need help with this issue.,Delivery,Medium,2024-08-11,Closed
+540,I received the wrong item. The order number matches but the product is different. Expecting a quick resolution.,Delivery,Low,2024-09-08,In Progress
+541,The search function on your platform returns irrelevant results or no results at all. This has been going on for too long.,Technical Support,Low,2024-05-10,Open
+542,The API integration keeps returning timeout errors for our application. This needs immediate attention.,Technical Support,High,2023-04-20,Closed
+543,My device is not connecting to your service. I've followed all troubleshooting steps. This needs immediate attention.,Technical Support,High,2023-05-01,Closed
+544,I was charged twice for my subscription this month. Please refund the extra amount. Please resolve this urgently.,Billing,High,2023-02-16,Open
+545,The delivery person did not ring the doorbell and left a missed delivery notice. I need help with this issue.,Delivery,High,2024-09-22,Closed
+546,I expect better service for the premium price I'm paying for your subscription. I am very disappointed.,Service Quality,High,2024-01-28,Open
+547,My account is showing activity from a location I have never been to. I am very disappointed.,Account,Low,2024-09-30,In Progress
+548,The quality of your product has declined since I first purchased it. I am very disappointed.,Service Quality,High,2024-07-31,In Progress
+549,My account profile information was changed without my knowledge. Please look into this matter.,Account,Medium,2023-05-02,Closed
+550,The estimated delivery date on the website was inaccurate by over a week. Please resolve this urgently.,Delivery,Low,2024-04-11,In Progress
+551,Your company's communication during the maintenance window was poor. I need help with this issue.,Service Quality,Medium,2023-07-16,In Progress
+552,My account profile information was changed without my knowledge. Please resolve this urgently.,Account,High,2023-03-09,Closed
+553,The print function is not working correctly. Pages come out blank or garbled. I am very disappointed.,Technical Support,Medium,2024-12-10,Open
+554,The fragile items in my order were not packed properly and arrived broken. Please resolve this urgently.,Delivery,Medium,2023-09-12,Closed
+555,I need to transfer my account ownership but the process is not documented. This has been going on for too long.,Account,Medium,2024-10-24,Closed
+556,The quality of your product has declined since I first purchased it. This has been going on for too long.,Service Quality,Medium,2024-02-24,In Progress
+557,Video calls keep dropping after 5 minutes. My internet connection is fine. Please resolve this urgently.,Technical Support,Medium,2023-05-30,In Progress
+558,The account merge feature is not working. I have two accounts that need combining. Please resolve this urgently.,Account,Low,2024-03-28,Open
+559,Your support team keeps asking me to repeat the same information every time I call. This needs immediate attention.,Service Quality,Low,2023-05-04,Closed
+560,Perishable items in my order arrived spoiled due to delayed delivery. This needs immediate attention.,Delivery,High,2024-02-29,In Progress
+561,The account verification process keeps failing even with correct documents. This needs immediate attention.,Account,Low,2024-05-05,In Progress
+562,I've contacted support 5 times about the same issue and it's still not resolved. Please resolve this urgently.,Service Quality,High,2024-05-14,Open
+563,I received a late payment fee even though I paid on time. Check your records. Expecting a quick resolution.,Billing,High,2024-12-18,Closed
+564,My replacement order is taking longer than the original order to ship. This needs immediate attention.,Delivery,Low,2024-02-23,In Progress
+565,The package was left at the wrong address and I had to retrieve it myself. I need help with this issue.,Delivery,Medium,2023-06-24,Open
+566,The delivery person did not ring the doorbell and left a missed delivery notice. This needs immediate attention.,Delivery,Medium,2024-01-31,Open
+567,The price increased without any prior notification. This is unfair to loyal customers. Expecting a quick resolution.,Billing,Low,2024-02-02,Closed
+568,The software update broke several features that were working fine before. This has been going on for too long.,Technical Support,Medium,2023-03-12,Closed
+569,The service outage lasted 3 days and there was no communication from your team. Please look into this matter.,Service Quality,High,2023-01-07,Closed
+570,The auto-renewal charged my card without sending a reminder email first.,Billing,Medium,2023-06-16,Closed
+571,My account tier benefits are not reflecting even though I qualify for gold status.,Account,Medium,2024-02-08,Open
+572,Data sync between desktop and mobile versions is not working properly. This has been going on for too long.,Technical Support,Low,2023-07-23,Closed
+573,I received a late payment fee even though I paid on time. Check your records. I am very disappointed.,Billing,Medium,2024-12-08,Closed
+574,I received a late payment fee even though I paid on time. Check your records. Please resolve this urgently.,Billing,High,2023-02-02,Closed
+575,The API integration keeps returning timeout errors for our application.,Technical Support,High,2023-01-08,Closed
+576,The package was left at the wrong address and I had to retrieve it myself. This has been going on for too long.,Delivery,Low,2024-07-20,Open
+577,The billing cycle changed without my consent. I want to go back to monthly billing. Expecting a quick resolution.,Billing,Medium,2024-02-03,Open
+578,My device is not connecting to your service. I've followed all troubleshooting steps. This has been going on for too long.,Technical Support,High,2023-05-23,Closed
+579,I cannot link my social media accounts to my profile anymore.,Account,Medium,2024-11-08,Closed
+580,Your staff provided incorrect information which caused me financial loss. This needs immediate attention.,Service Quality,Low,2024-04-22,In Progress
+581,I filed a formal complaint two weeks ago and have received no acknowledgment. Please look into this matter.,Service Quality,High,2024-01-26,In Progress
+582,I'm getting error code 502 whenever I try to access my dashboard. This needs immediate attention.,Technical Support,Medium,2024-01-24,In Progress
+583,I was charged for a premium feature that I never opted into. Remove the charge. Expecting a quick resolution.,Billing,Medium,2023-10-06,Closed
+584,The tracking information hasn't updated in 4 days. Where is my package? This has been going on for too long.,Delivery,High,2024-05-26,In Progress
+585,The technician who visited my home was unprofessional and left without fixing the issue. I am very disappointed.,Service Quality,Low,2023-05-01,Closed
+586,The online help documentation is outdated and doesn't match the current interface. Expecting a quick resolution.,Service Quality,Low,2023-06-15,In Progress
+587,The mobile app notifications are not working. I'm missing important alerts. I am very disappointed.,Technical Support,Low,2023-08-19,In Progress
+588,The export feature generates corrupted files. I cannot open the downloaded reports. I am very disappointed.,Technical Support,Low,2023-01-16,Closed
+589,I've contacted support 5 times about the same issue and it's still not resolved.,Service Quality,Low,2024-09-05,Open
+590,I was charged full price during the free trial period. This is a billing error. Please look into this matter.,Billing,Medium,2023-07-06,Closed
+591,Your company's communication during the maintenance window was poor. Expecting a quick resolution.,Service Quality,Medium,2024-04-11,Closed
+592,My loyalty points disappeared from my account after the system update. I need help with this issue.,Account,Medium,2023-01-07,In Progress
+593,I cancelled my plan last month but I'm still being billed. Please stop the charges. I am very disappointed.,Billing,Low,2023-06-07,Closed
+594,The export feature generates corrupted files. I cannot open the downloaded reports. This has been going on for too long.,Technical Support,Medium,2024-11-23,Closed
+595,The package arrived damaged. The contents inside were completely broken. I need help with this issue.,Delivery,High,2024-08-10,Closed
+596,The delivery date was changed twice without notifying me in advance. Expecting a quick resolution.,Delivery,Low,2023-09-16,Open
+597,My corporate discount is not reflecting on the latest bill. Please correct this. Please look into this matter.,Billing,Low,2024-11-19,Closed
+598,I cannot log into my account. The password reset link is not working either. I need help with this issue.,Technical Support,Medium,2024-05-30,Closed
+599,My corporate discount is not reflecting on the latest bill. Please correct this. I am very disappointed.,Billing,Medium,2023-06-13,Closed
+600,My corporate discount is not reflecting on the latest bill. Please correct this. This has been going on for too long.,Billing,Medium,2024-03-11,Closed
+601,Your staff provided incorrect information which caused me financial loss. This has been going on for too long.,Service Quality,Low,2024-11-17,Closed
+602,The package was left at the wrong address and I had to retrieve it myself. This has been going on for too long.,Delivery,High,2024-12-14,Closed
+603,I need to transfer my account ownership but the process is not documented. Expecting a quick resolution.,Account,High,2023-04-12,Closed
+604,The privacy settings on my account are not saving when I try to update them. Please look into this matter.,Account,Medium,2024-10-03,In Progress
+605,The API integration keeps returning timeout errors for our application. Please resolve this urgently.,Technical Support,Medium,2023-11-03,Closed
+606,My account tier benefits are not reflecting even though I qualify for gold status. Please look into this matter.,Account,Medium,2023-12-19,Open
+607,Data sync between desktop and mobile versions is not working properly. This has been going on for too long.,Technical Support,High,2024-01-05,Closed
+608,I expect better service for the premium price I'm paying for your subscription. Please look into this matter.,Service Quality,Low,2024-02-17,In Progress
+609,My corporate discount is not reflecting on the latest bill. Please correct this. Please look into this matter.,Billing,High,2023-04-05,Open
+610,The live chat support agent disconnected without resolving my issue.,Service Quality,High,2024-07-24,Closed
+611,I cannot upload files larger than 5MB even though the limit should be 25MB. This needs immediate attention.,Technical Support,Medium,2024-04-03,Closed
+612,The delivery date was changed twice without notifying me in advance. This has been going on for too long.,Delivery,High,2023-05-06,Open
+613,The quality assurance on your latest product release is clearly lacking.,Service Quality,High,2023-04-06,Closed
+614,The promotional discount was not applied to my latest invoice. I was promised 20% off.,Billing,Low,2023-12-18,Closed
+615,The delivery window given was 8am-8pm which is way too broad to be useful. Please look into this matter.,Delivery,Medium,2024-09-03,Closed
+616,The fragile items in my order were not packed properly and arrived broken. Expecting a quick resolution.,Delivery,Low,2024-10-28,Open
+617,The service outage lasted 3 days and there was no communication from your team. I am very disappointed.,Service Quality,Medium,2023-09-25,Closed
+618,I see an unauthorized charge on my account for $49.99. I did not make this purchase. Please look into this matter.,Billing,High,2024-04-30,Closed
+619,The delivery person did not ring the doorbell and left a missed delivery notice.,Delivery,Medium,2024-08-20,Open
+620,I cannot change my subscription plan from the account management page. I am very disappointed.,Account,High,2024-02-13,Closed
+621,I need to transfer my account ownership but the process is not documented. This needs immediate attention.,Account,Medium,2024-12-22,In Progress
+622,My bill shows charges for services I never subscribed to. This is unacceptable.,Billing,Low,2023-09-11,Closed
+623,My loyalty points disappeared from my account after the system update. Please resolve this urgently.,Account,High,2024-04-18,In Progress
+624,The account recovery process requires a phone number I no longer have access to. This needs immediate attention.,Account,High,2024-03-22,In Progress
+625,Your support team keeps asking me to repeat the same information every time I call. Please look into this matter.,Service Quality,High,2023-06-16,Closed
+626,The account verification process keeps failing even with correct documents. Please resolve this urgently.,Account,Low,2024-01-31,Closed
+627,I need an itemized bill breakdown. The total charges seem inflated. This has been going on for too long.,Billing,Medium,2024-08-25,In Progress
+628,Screen sharing feature freezes during presentations. This is affecting my work.,Technical Support,Medium,2023-08-18,Closed
+629,My delivery was marked as delivered but I never received it at my address. I need help with this issue.,Delivery,Medium,2024-08-03,Closed
+630,The technician who visited my home was unprofessional and left without fixing the issue. This has been going on for too long.,Service Quality,High,2024-09-08,Closed
+631,The estimated delivery date on the website was inaccurate by over a week. Please resolve this urgently.,Delivery,Low,2023-07-12,Open
+632,Data sync between desktop and mobile versions is not working properly. I need help with this issue.,Technical Support,High,2023-06-15,Closed
+633,The promised features in the plan I purchased are not available. I am very disappointed.,Service Quality,Medium,2023-12-13,In Progress
+634,The print function is not working correctly. Pages come out blank or garbled. Expecting a quick resolution.,Technical Support,High,2024-02-03,Closed
+635,The quality assurance on your latest product release is clearly lacking.,Service Quality,Low,2024-12-21,Closed
+636,My payment was deducted but the service was not activated. I need an immediate refund. Please look into this matter.,Billing,Medium,2024-02-26,Closed
+637,I was downgraded from premium to basic without any notification or consent. Expecting a quick resolution.,Account,Low,2024-08-20,Closed
+638,My account history and past orders have been wiped clean after the migration.,Account,High,2024-06-11,Open
+639,My corporate discount is not reflecting on the latest bill. Please correct this.,Billing,High,2023-10-28,Open
+640,Your support team keeps asking me to repeat the same information every time I call. Please look into this matter.,Service Quality,Low,2023-10-03,Open
+641,The tracking information hasn't updated in 4 days. Where is my package? This has been going on for too long.,Delivery,High,2024-03-22,Open
+642,I cannot update my email address on the account settings page. This needs immediate attention.,Account,High,2024-02-28,Open
+643,Service reliability has been terrible with frequent outages this quarter. This has been going on for too long.,Service Quality,Low,2023-06-06,Closed
+644,The mobile app notifications are not working. I'm missing important alerts. Please resolve this urgently.,Technical Support,Medium,2023-10-19,Closed
+645,The technician who visited my home was unprofessional and left without fixing the issue. This needs immediate attention.,Service Quality,Low,2023-03-11,Closed
+646,I'm getting error code 502 whenever I try to access my dashboard. Please look into this matter.,Technical Support,High,2024-06-04,Closed
+647,I cannot change my subscription plan from the account management page. This has been going on for too long.,Account,Medium,2024-10-24,Closed
+648,The auto-renewal charged my card without sending a reminder email first. This needs immediate attention.,Billing,Low,2024-07-23,In Progress
+649,The online help documentation is outdated and doesn't match the current interface. This needs immediate attention.,Service Quality,Medium,2024-11-26,Closed
+650,The software update broke several features that were working fine before. Please resolve this urgently.,Technical Support,Medium,2023-06-09,Closed
+651,I cannot upload files larger than 5MB even though the limit should be 25MB. Please resolve this urgently.,Technical Support,Medium,2023-01-13,Closed
+652,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please resolve this urgently.,Delivery,Medium,2024-08-19,Closed
+653,The promised features in the plan I purchased are not available. Expecting a quick resolution.,Service Quality,Low,2024-07-17,Closed
+654,The promised features in the plan I purchased are not available.,Service Quality,Medium,2023-04-03,Closed
+655,The delivery window given was 8am-8pm which is way too broad to be useful.,Delivery,Medium,2024-11-29,Open
+656,Your customer service representative was extremely rude and unhelpful during my call. Please look into this matter.,Service Quality,Medium,2023-01-02,In Progress
+657,My account is showing activity from a location I have never been to. Please resolve this urgently.,Account,Low,2024-11-27,Open
+658,The search function on your platform returns irrelevant results or no results at all. I am very disappointed.,Technical Support,High,2024-10-29,Closed
+659,Your team promised a callback within 24 hours but nobody called me back.,Service Quality,Low,2023-11-16,Closed
+660,My account was suspended even though the payment went through successfully. Please resolve this urgently.,Billing,High,2023-12-13,Closed
+661,My account shows a balance due but I already paid in full last week. Expecting a quick resolution.,Billing,Medium,2023-12-02,Closed
+662,Someone accessed my account without authorization. I suspect a security breach. I am very disappointed.,Account,High,2024-12-16,In Progress
+663,Your support team keeps asking me to repeat the same information every time I call. Please resolve this urgently.,Service Quality,Low,2024-04-26,In Progress
+664,Perishable items in my order arrived spoiled due to delayed delivery. I need help with this issue.,Delivery,Low,2024-08-14,Closed
+665,I cannot change my subscription plan from the account management page. I am very disappointed.,Account,High,2023-02-15,In Progress
+666,My package was returned to sender without any attempt to deliver it. Expecting a quick resolution.,Delivery,Medium,2024-07-17,Closed
+667,The API integration keeps returning timeout errors for our application. Please look into this matter.,Technical Support,Medium,2023-10-26,In Progress
+668,Your response time to emails is terrible. I waited a week for a simple answer. This has been going on for too long.,Service Quality,High,2023-01-25,Closed
+669,The software update broke several features that were working fine before. Expecting a quick resolution.,Technical Support,High,2023-04-24,Closed
+670,I cannot upload files larger than 5MB even though the limit should be 25MB. This needs immediate attention.,Technical Support,Medium,2024-09-22,Closed
+671,I filed a formal complaint two weeks ago and have received no acknowledgment. I need help with this issue.,Service Quality,Medium,2023-11-28,In Progress
+672,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please resolve this urgently.,Delivery,Medium,2024-07-08,Open
+673,The parental controls on my account are not restricting content as configured.,Account,High,2024-09-16,Open
+674,The gift wrapping I paid extra for was not included in the delivery. Expecting a quick resolution.,Delivery,Low,2023-04-16,In Progress
+675,The price increased without any prior notification. This is unfair to loyal customers. I am very disappointed.,Billing,Medium,2023-08-04,Open
+676,The account recovery process requires a phone number I no longer have access to. This has been going on for too long.,Account,Medium,2024-04-29,Closed
+677,My delivery was marked as delivered but I never received it at my address. This needs immediate attention.,Delivery,Medium,2023-07-06,Closed
+678,I've been waiting 3 weeks for an international shipment that was quoted 7 days. This has been going on for too long.,Delivery,Low,2024-03-30,Closed
+679,The mobile app notifications are not working. I'm missing important alerts. Expecting a quick resolution.,Technical Support,High,2023-05-28,In Progress
+680,I see duplicate transactions on my statement. Both need to be investigated. This needs immediate attention.,Billing,Medium,2024-12-06,In Progress
+681,The calendar integration with my email client stopped working after the update. This has been going on for too long.,Technical Support,Medium,2024-08-03,Closed
+682,I expect better service for the premium price I'm paying for your subscription. Please resolve this urgently.,Service Quality,Low,2024-07-02,In Progress
+683,The delivery date was changed twice without notifying me in advance. Please look into this matter.,Delivery,Medium,2023-10-18,Open
+684,The search function on your platform returns irrelevant results or no results at all. Please look into this matter.,Technical Support,High,2023-04-15,In Progress
+685,Service reliability has been terrible with frequent outages this quarter. I am very disappointed.,Service Quality,Medium,2023-06-20,Closed
+686,The account merge feature is not working. I have two accounts that need combining. Please resolve this urgently.,Account,High,2024-10-02,Closed
+687,The delivery date was changed twice without notifying me in advance.,Delivery,Medium,2023-03-18,Closed
+688,My payment was deducted but the service was not activated. I need an immediate refund. Please resolve this urgently.,Billing,High,2024-05-26,In Progress
+689,The delivery date was changed twice without notifying me in advance. Please look into this matter.,Delivery,Low,2024-09-30,Closed
+690,I cannot update my email address on the account settings page.,Account,High,2023-12-08,In Progress
+691,The tracking information hasn't updated in 4 days. Where is my package? This has been going on for too long.,Delivery,High,2023-08-03,Open
+692,The price increased without any prior notification. This is unfair to loyal customers. Please look into this matter.,Billing,Medium,2024-09-21,Closed
+693,Auto-save is not working and I lost 2 hours of work. Very frustrating. Please look into this matter.,Technical Support,High,2023-10-17,Open
+694,The account merge feature is not working. I have two accounts that need combining. I need help with this issue.,Account,Low,2024-05-16,Open
+695,The account merge feature is not working. I have two accounts that need combining. Expecting a quick resolution.,Account,Medium,2023-11-11,Closed
+696,My delivery was marked as delivered but I never received it at my address. This has been going on for too long.,Delivery,Low,2024-06-27,In Progress
+697,My order shows shipped but the carrier says they never received the package. I need help with this issue.,Delivery,Low,2023-11-04,Open
+698,I was charged full price during the free trial period. This is a billing error. Expecting a quick resolution.,Billing,Low,2023-10-14,In Progress
+699,The package arrived damaged. The contents inside were completely broken. Expecting a quick resolution.,Delivery,Low,2024-05-29,In Progress
+700,The parental controls on my account are not restricting content as configured.,Account,High,2023-03-27,In Progress
+701,I cannot link my social media accounts to my profile anymore. This has been going on for too long.,Account,High,2024-02-06,Closed
+702,My order was supposed to arrive 5 days ago but I still haven't received it.,Delivery,Medium,2024-06-28,Closed
+703,Perishable items in my order arrived spoiled due to delayed delivery. Please look into this matter.,Delivery,High,2023-06-28,Closed
+704,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. I need help with this issue.,Technical Support,High,2024-02-21,Closed
+705,My account history and past orders have been wiped clean after the migration. Please resolve this urgently.,Account,Low,2024-01-18,Closed
+706,I was downgraded from premium to basic without any notification or consent. This has been going on for too long.,Account,Medium,2024-08-08,Open
+707,The auto-renewal charged my card without sending a reminder email first. Please look into this matter.,Billing,High,2024-11-15,In Progress
+708,The mobile app notifications are not working. I'm missing important alerts. Expecting a quick resolution.,Technical Support,Low,2024-05-12,In Progress
+709,I need an itemized bill breakdown. The total charges seem inflated. Please resolve this urgently.,Billing,Low,2024-07-03,Open
+710,The parental controls on my account are not restricting content as configured. I need help with this issue.,Account,High,2023-05-04,In Progress
+711,I've been waiting on hold for over 45 minutes. This is unacceptable wait time. I am very disappointed.,Service Quality,Low,2023-08-19,In Progress
+712,My replacement order is taking longer than the original order to ship. Please look into this matter.,Delivery,High,2024-01-29,Open
+713,My account shows a balance due but I already paid in full last week. This needs immediate attention.,Billing,High,2024-11-08,Closed
+714,My account shows a balance due but I already paid in full last week. I am very disappointed.,Billing,High,2024-12-21,In Progress
+715,The delivery person did not ring the doorbell and left a missed delivery notice. Expecting a quick resolution.,Delivery,High,2023-04-08,In Progress
+716,The live chat support agent disconnected without resolving my issue. This has been going on for too long.,Service Quality,High,2023-05-04,Closed
+717,I need to transfer my account ownership but the process is not documented. Please look into this matter.,Account,Medium,2023-04-06,Closed
+718,I received a late payment fee even though I paid on time. Check your records. I need help with this issue.,Billing,Medium,2023-07-22,Open
+719,The package arrived damaged. The contents inside were completely broken. Please look into this matter.,Delivery,High,2024-10-20,Closed
+720,I cannot update my email address on the account settings page. Expecting a quick resolution.,Account,Medium,2024-05-03,In Progress
+721,I cannot log into my account. The password reset link is not working either. This has been going on for too long.,Technical Support,Low,2023-02-03,Closed
+722,The promised features in the plan I purchased are not available. Please resolve this urgently.,Service Quality,Medium,2023-03-08,Closed
+723,The delivery window given was 8am-8pm which is way too broad to be useful. Please look into this matter.,Delivery,Medium,2024-12-14,Open
+724,The package arrived damaged. The contents inside were completely broken. Please look into this matter.,Delivery,Low,2023-05-15,Closed
+725,My bill shows charges for services I never subscribed to. This is unacceptable. I am very disappointed.,Billing,High,2024-05-19,Open
+726,I filed a formal complaint two weeks ago and have received no acknowledgment. I need help with this issue.,Service Quality,Low,2024-09-03,Open
+727,The delivery driver left the package in the rain without any protection. Please resolve this urgently.,Delivery,High,2023-10-18,Closed
+728,My account history and past orders have been wiped clean after the migration. This needs immediate attention.,Account,Low,2024-07-20,Closed
+729,The gift wrapping I paid extra for was not included in the delivery. This needs immediate attention.,Delivery,Medium,2023-11-01,Closed
+730,I cannot log into my account. The password reset link is not working either. This has been going on for too long.,Technical Support,Medium,2023-02-12,Closed
+731,The quality of your product has declined since I first purchased it. This has been going on for too long.,Service Quality,Medium,2024-08-08,Open
+732,Your response time to emails is terrible. I waited a week for a simple answer. Expecting a quick resolution.,Service Quality,High,2023-03-25,In Progress
+733,The delivery driver left the package in the rain without any protection. I need help with this issue.,Delivery,Low,2023-08-05,Closed
+734,My corporate discount is not reflecting on the latest bill. Please correct this.,Billing,Medium,2023-05-08,Closed
+735,The live chat support agent disconnected without resolving my issue. Please resolve this urgently.,Service Quality,Medium,2023-03-17,Open
+736,Your support team keeps asking me to repeat the same information every time I call. Please resolve this urgently.,Service Quality,Medium,2024-08-17,Closed
+737,The package was left at the wrong address and I had to retrieve it myself. Please resolve this urgently.,Delivery,Low,2023-12-11,In Progress
+738,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. Please resolve this urgently.,Technical Support,Medium,2024-03-11,Open
+739,The website is extremely slow and keeps timing out. I can't complete any transactions. I need help with this issue.,Technical Support,Medium,2023-01-10,Open
+740,The account merge feature is not working. I have two accounts that need combining. This needs immediate attention.,Account,Medium,2023-02-14,Closed
+741,The privacy settings on my account are not saving when I try to update them. Please look into this matter.,Account,Medium,2024-03-15,In Progress
+742,I cannot log into my account. The password reset link is not working either. Expecting a quick resolution.,Technical Support,Medium,2024-10-02,Open
+743,I was charged full price during the free trial period. This is a billing error. I need help with this issue.,Billing,Medium,2023-07-19,Closed
+744,My account tier benefits are not reflecting even though I qualify for gold status. I am very disappointed.,Account,High,2024-11-07,Closed
+745,I received a late payment fee even though I paid on time. Check your records.,Billing,Medium,2024-11-19,Open
+746,I requested an account data export but received an incomplete file.,Account,Medium,2023-01-18,Open
+747,The auto-renewal charged my card without sending a reminder email first. This needs immediate attention.,Billing,Low,2023-06-07,Closed
+748,I see an unauthorized charge on my account for $49.99. I did not make this purchase. Expecting a quick resolution.,Billing,Medium,2023-03-02,In Progress
+749,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. I need help with this issue.,Technical Support,Medium,2024-05-23,In Progress
+750,The service quality has deteriorated significantly over the past few months. This needs immediate attention.,Service Quality,Low,2023-04-29,Open
+751,The gift wrapping I paid extra for was not included in the delivery. Please look into this matter.,Delivery,Low,2023-11-12,Closed
+752,The mobile app notifications are not working. I'm missing important alerts.,Technical Support,Medium,2023-08-13,Open
+753,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please resolve this urgently.,Delivery,High,2024-07-01,Closed
+754,I was transferred between 4 different departments without anyone helping me. Expecting a quick resolution.,Service Quality,High,2024-02-23,In Progress
+755,I filed a formal complaint two weeks ago and have received no acknowledgment. I am very disappointed.,Service Quality,Low,2024-12-30,In Progress
+756,I've been waiting 3 weeks for an international shipment that was quoted 7 days.,Delivery,Low,2024-02-15,Open
+757,My corporate discount is not reflecting on the latest bill. Please correct this. I am very disappointed.,Billing,Medium,2024-11-24,Closed
+758,Your software is not compatible with the latest OS update. Please fix this. Please look into this matter.,Technical Support,Low,2023-10-05,Closed
+759,Data sync between desktop and mobile versions is not working properly. Please look into this matter.,Technical Support,High,2023-02-18,Open
+760,Service reliability has been terrible with frequent outages this quarter. Please resolve this urgently.,Service Quality,Medium,2023-11-23,Closed
+761,My order was supposed to arrive 5 days ago but I still haven't received it. This has been going on for too long.,Delivery,High,2024-01-08,Open
+762,I need an itemized bill breakdown. The total charges seem inflated. This has been going on for too long.,Billing,Low,2024-08-29,Open
+763,Your company's communication during the maintenance window was poor. I need help with this issue.,Service Quality,Low,2023-10-22,In Progress
+764,I cannot link my social media accounts to my profile anymore. Please look into this matter.,Account,High,2024-02-02,In Progress
+765,The account merge feature is not working. I have two accounts that need combining. Expecting a quick resolution.,Account,Medium,2024-07-23,Open
+766,I see an unauthorized charge on my account for $49.99. I did not make this purchase. Please resolve this urgently.,Billing,Low,2023-07-11,Closed
+767,I need to transfer my account ownership but the process is not documented. Please look into this matter.,Account,High,2024-10-04,In Progress
+768,I cannot log into my account. The password reset link is not working either. Expecting a quick resolution.,Technical Support,Low,2024-11-07,In Progress
+769,My payment was deducted but the service was not activated. I need an immediate refund. This needs immediate attention.,Billing,High,2024-04-22,Closed
+770,Perishable items in my order arrived spoiled due to delayed delivery. Please resolve this urgently.,Delivery,High,2023-01-30,Closed
+771,The technician who visited my home was unprofessional and left without fixing the issue. This has been going on for too long.,Service Quality,Medium,2023-10-11,Open
+772,My account was suspended even though the payment went through successfully. This has been going on for too long.,Billing,Medium,2024-08-08,Closed
+773,The tracking information hasn't updated in 4 days. Where is my package? This needs immediate attention.,Delivery,High,2024-12-30,In Progress
+774,Data sync between desktop and mobile versions is not working properly. Please resolve this urgently.,Technical Support,High,2024-10-31,Open
+775,The invoice amount does not match what was quoted by your sales team. Please resolve this urgently.,Billing,Low,2023-10-19,Open
+776,Your support team keeps asking me to repeat the same information every time I call.,Service Quality,Low,2023-09-29,Open
+777,The chat feature is not loading. I see a blank screen when I click on messages. This needs immediate attention.,Technical Support,Medium,2023-12-23,Closed
+778,My account history and past orders have been wiped clean after the migration. Please resolve this urgently.,Account,Low,2024-02-11,Closed
+779,I see duplicate transactions on my statement. Both need to be investigated. Please resolve this urgently.,Billing,Medium,2024-10-10,Closed
+780,I received a late payment fee even though I paid on time. Check your records. I am very disappointed.,Billing,Medium,2023-02-03,In Progress
+781,The service outage lasted 3 days and there was no communication from your team. Expecting a quick resolution.,Service Quality,Medium,2023-02-16,In Progress
+782,I cannot add a secondary user to my account as the option is greyed out. I am very disappointed.,Account,High,2024-05-15,Open
+783,Service reliability has been terrible with frequent outages this quarter. I am very disappointed.,Service Quality,Medium,2023-06-18,Closed
+784,My account was locked without any explanation. I need immediate access. Please look into this matter.,Account,Medium,2024-06-03,In Progress
+785,The account merge feature is not working. I have two accounts that need combining.,Account,High,2023-09-11,Closed
+786,The fragile items in my order were not packed properly and arrived broken. Please look into this matter.,Delivery,Medium,2024-11-17,Open
+787,I ordered express shipping but the package is coming via standard delivery. Expecting a quick resolution.,Delivery,Low,2024-05-11,In Progress
+788,Your team promised a callback within 24 hours but nobody called me back. Please resolve this urgently.,Service Quality,High,2023-08-22,In Progress
+789,The parental controls on my account are not restricting content as configured. Please look into this matter.,Account,High,2024-04-23,Open
+790,I'm getting error code 502 whenever I try to access my dashboard.,Technical Support,High,2024-11-21,Closed
+791,The calendar integration with my email client stopped working after the update. Please look into this matter.,Technical Support,High,2023-02-19,Closed
+792,The currency conversion rate applied to my bill is incorrect. This needs immediate attention.,Billing,High,2024-11-06,In Progress
+793,Service reliability has been terrible with frequent outages this quarter. I am very disappointed.,Service Quality,Medium,2023-06-24,Closed
+794,The auto-renewal charged my card without sending a reminder email first. Expecting a quick resolution.,Billing,Medium,2024-07-02,In Progress
+795,My bill shows charges for services I never subscribed to. This is unacceptable. I am very disappointed.,Billing,Medium,2023-01-21,Closed
+796,The calendar integration with my email client stopped working after the update. This has been going on for too long.,Technical Support,Low,2024-05-05,Open
+797,I was downgraded from premium to basic without any notification or consent. Please resolve this urgently.,Account,High,2023-01-23,Open
+798,I see duplicate transactions on my statement. Both need to be investigated. Please resolve this urgently.,Billing,High,2024-04-09,Closed
+799,Screen sharing feature freezes during presentations. This is affecting my work. I am very disappointed.,Technical Support,Medium,2023-12-29,Open
+800,Data sync between desktop and mobile versions is not working properly.,Technical Support,Medium,2023-08-09,Open
+801,The price increased without any prior notification. This is unfair to loyal customers. Please resolve this urgently.,Billing,High,2023-12-10,In Progress
+802,I cannot update my email address on the account settings page. I need help with this issue.,Account,Medium,2023-07-17,Closed
+803,I cannot link my social media accounts to my profile anymore. This has been going on for too long.,Account,Medium,2024-08-09,Closed
+804,The quality of your product has declined since I first purchased it.,Service Quality,Medium,2023-03-03,Closed
+805,The mobile app notifications are not working. I'm missing important alerts. I am very disappointed.,Technical Support,Medium,2024-09-11,Open
+806,Your customer service representative was extremely rude and unhelpful during my call. I am very disappointed.,Service Quality,Medium,2023-11-02,Closed
+807,My replacement order is taking longer than the original order to ship. Expecting a quick resolution.,Delivery,Medium,2024-07-10,Open
+808,I cannot upload files larger than 5MB even though the limit should be 25MB. Please resolve this urgently.,Technical Support,High,2024-07-31,Open
+809,The service outage lasted 3 days and there was no communication from your team. Please resolve this urgently.,Service Quality,Low,2024-03-02,Open
+810,The print function is not working correctly. Pages come out blank or garbled.,Technical Support,Medium,2023-09-27,Open
+811,I was downgraded from premium to basic without any notification or consent. I am very disappointed.,Account,Medium,2023-05-05,Open
+812,The chat feature is not loading. I see a blank screen when I click on messages. I am very disappointed.,Technical Support,Medium,2024-09-22,In Progress
+813,The account recovery process requires a phone number I no longer have access to. I am very disappointed.,Account,High,2023-02-17,Closed
+814,I need to transfer my account ownership but the process is not documented. Please look into this matter.,Account,High,2023-08-17,Closed
+815,I was charged for a premium feature that I never opted into. Remove the charge. Please resolve this urgently.,Billing,High,2023-02-13,Closed
+816,The technician who visited my home was unprofessional and left without fixing the issue. Please resolve this urgently.,Service Quality,Medium,2024-12-29,Open
+817,The package was left at the wrong address and I had to retrieve it myself. This needs immediate attention.,Delivery,Low,2023-02-08,Closed
+818,The technician who visited my home was unprofessional and left without fixing the issue. I need help with this issue.,Service Quality,Low,2023-11-19,In Progress
+819,My refund has been pending for over 30 days. When will it be processed? This has been going on for too long.,Billing,High,2024-11-29,Closed
+820,The service quality has deteriorated significantly over the past few months. Expecting a quick resolution.,Service Quality,High,2024-11-16,In Progress
+821,Screen sharing feature freezes during presentations. This is affecting my work. I need help with this issue.,Technical Support,Medium,2023-03-13,Closed
+822,My account shows a balance due but I already paid in full last week. Please look into this matter.,Billing,Medium,2024-07-09,In Progress
+823,The account recovery process requires a phone number I no longer have access to. This has been going on for too long.,Account,Low,2023-09-11,Closed
+824,The delivery date was changed twice without notifying me in advance. Expecting a quick resolution.,Delivery,High,2024-01-09,In Progress
+825,The online help documentation is outdated and doesn't match the current interface. Please look into this matter.,Service Quality,Low,2024-10-27,In Progress
+826,My loyalty points disappeared from my account after the system update.,Account,High,2023-06-29,Closed
+827,The service outage lasted 3 days and there was no communication from your team. I need help with this issue.,Service Quality,Medium,2023-06-11,In Progress
+828,I'm getting error code 502 whenever I try to access my dashboard. Please resolve this urgently.,Technical Support,Low,2023-06-10,Closed
+829,My delivery was marked as delivered but I never received it at my address. Please resolve this urgently.,Delivery,High,2023-11-14,Closed
+830,I was charged twice for my subscription this month. Please refund the extra amount. Please resolve this urgently.,Billing,Medium,2023-01-15,Closed
+831,Video calls keep dropping after 5 minutes. My internet connection is fine. I need help with this issue.,Technical Support,High,2023-06-08,Closed
+832,The print function is not working correctly. Pages come out blank or garbled. This needs immediate attention.,Technical Support,Medium,2023-01-01,Open
+833,Two-factor authentication is locked and I cannot access my account at all. Expecting a quick resolution.,Technical Support,High,2024-06-09,Open
+834,The currency conversion rate applied to my bill is incorrect.,Billing,High,2024-03-18,Closed
+835,I need to transfer my account ownership but the process is not documented.,Account,Medium,2024-07-28,Closed
+836,I've contacted support 5 times about the same issue and it's still not resolved. I am very disappointed.,Service Quality,High,2023-04-06,Closed
+837,I was downgraded from premium to basic without any notification or consent. I am very disappointed.,Account,High,2023-01-18,In Progress
+838,The package was left at the wrong address and I had to retrieve it myself. This has been going on for too long.,Delivery,Low,2024-05-02,Closed
+839,Data sync between desktop and mobile versions is not working properly. I need help with this issue.,Technical Support,Medium,2024-04-19,Closed
+840,The website is extremely slow and keeps timing out. I can't complete any transactions.,Technical Support,Low,2023-08-14,Closed
+841,The currency conversion rate applied to my bill is incorrect. This has been going on for too long.,Billing,Medium,2023-09-06,In Progress
+842,My refund has been pending for over 30 days. When will it be processed? Please look into this matter.,Billing,Medium,2024-04-13,Closed
+843,I see an unauthorized charge on my account for $49.99. I did not make this purchase. I am very disappointed.,Billing,Medium,2023-01-07,Closed
+844,I'm getting error code 502 whenever I try to access my dashboard. Expecting a quick resolution.,Technical Support,Medium,2023-01-26,Closed
+845,I need to transfer my account ownership but the process is not documented.,Account,High,2023-11-13,In Progress
+846,Someone accessed my account without authorization. I suspect a security breach. I need help with this issue.,Account,High,2023-11-17,Closed
+847,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,Medium,2024-03-01,Closed
+848,Two-factor authentication is locked and I cannot access my account at all. This needs immediate attention.,Technical Support,High,2024-04-17,Closed
+849,The delivery window given was 8am-8pm which is way too broad to be useful. This needs immediate attention.,Delivery,Low,2024-05-25,Closed
+850,Video calls keep dropping after 5 minutes. My internet connection is fine. Please resolve this urgently.,Technical Support,Medium,2023-12-13,In Progress
+851,Your company's communication during the maintenance window was poor.,Service Quality,Medium,2024-11-27,In Progress
+852,My delivery was marked as delivered but I never received it at my address. I need help with this issue.,Delivery,Low,2023-03-12,Closed
+853,The online help documentation is outdated and doesn't match the current interface. Please look into this matter.,Service Quality,High,2023-11-22,Closed
+854,The service quality has deteriorated significantly over the past few months. This has been going on for too long.,Service Quality,High,2023-05-02,Closed
+855,The delivery driver left the package in the rain without any protection. This needs immediate attention.,Delivery,Medium,2024-04-05,Open
+856,I've been waiting 3 weeks for an international shipment that was quoted 7 days. This has been going on for too long.,Delivery,Medium,2023-05-22,Closed
+857,The package arrived damaged. The contents inside were completely broken. Please resolve this urgently.,Delivery,Medium,2023-02-27,Closed
+858,The billing cycle changed without my consent. I want to go back to monthly billing. Please look into this matter.,Billing,High,2024-09-29,Closed
+859,The estimated delivery date on the website was inaccurate by over a week.,Delivery,Medium,2024-05-24,Closed
+860,The promotional discount was not applied to my latest invoice. I was promised 20% off.,Billing,Low,2023-08-07,In Progress
+861,My bill shows charges for services I never subscribed to. This is unacceptable. Please look into this matter.,Billing,Medium,2023-10-21,In Progress
+862,The quality assurance on your latest product release is clearly lacking. Expecting a quick resolution.,Service Quality,High,2024-10-15,Closed
+863,The price increased without any prior notification. This is unfair to loyal customers. This needs immediate attention.,Billing,Low,2024-12-13,In Progress
+864,The currency conversion rate applied to my bill is incorrect. Please look into this matter.,Billing,Low,2024-01-30,Open
+865,My account profile information was changed without my knowledge. Please look into this matter.,Account,High,2023-11-14,In Progress
+866,Auto-save is not working and I lost 2 hours of work. Very frustrating. Expecting a quick resolution.,Technical Support,High,2024-06-25,Closed
+867,Half of the items in my order are missing. I only received 2 out of 5 items. I need help with this issue.,Delivery,Low,2023-04-10,Open
+868,The service outage lasted 3 days and there was no communication from your team. Please resolve this urgently.,Service Quality,Low,2023-05-22,Closed
+869,I'm getting error code 502 whenever I try to access my dashboard. Expecting a quick resolution.,Technical Support,High,2024-05-12,In Progress
+870,I cannot upload files larger than 5MB even though the limit should be 25MB.,Technical Support,Medium,2024-01-05,Closed
+871,The gift wrapping I paid extra for was not included in the delivery. This has been going on for too long.,Delivery,Low,2024-12-14,Open
+872,Perishable items in my order arrived spoiled due to delayed delivery. Expecting a quick resolution.,Delivery,Low,2023-09-07,Closed
+873,I was charged twice for my subscription this month. Please refund the extra amount. Please look into this matter.,Billing,Medium,2024-07-28,Closed
+874,I've contacted support 5 times about the same issue and it's still not resolved. Expecting a quick resolution.,Service Quality,Medium,2024-09-23,Closed
+875,Video calls keep dropping after 5 minutes. My internet connection is fine. I am very disappointed.,Technical Support,High,2023-09-25,In Progress
+876,I received a late payment fee even though I paid on time. Check your records. Please look into this matter.,Billing,Medium,2024-05-15,Open
+877,The API integration keeps returning timeout errors for our application.,Technical Support,High,2024-02-04,In Progress
+878,My account history and past orders have been wiped clean after the migration.,Account,High,2024-05-26,Closed
+879,My bill shows charges for services I never subscribed to. This is unacceptable. This has been going on for too long.,Billing,Medium,2023-10-24,Open
+880,My refund has been pending for over 30 days. When will it be processed? This has been going on for too long.,Billing,High,2024-10-27,Closed
+881,I was transferred between 4 different departments without anyone helping me. This has been going on for too long.,Service Quality,Low,2023-03-01,Closed
+882,My bill shows charges for services I never subscribed to. This is unacceptable. I need help with this issue.,Billing,Medium,2024-03-26,In Progress
+883,I cancelled my plan last month but I'm still being billed. Please stop the charges. Expecting a quick resolution.,Billing,Low,2024-04-18,Closed
+884,The export feature generates corrupted files. I cannot open the downloaded reports. Please resolve this urgently.,Technical Support,High,2024-07-02,In Progress
+885,Your company's communication during the maintenance window was poor. I need help with this issue.,Service Quality,Medium,2024-08-02,In Progress
+886,The delivery date was changed twice without notifying me in advance. This needs immediate attention.,Delivery,Medium,2024-03-24,Open
+887,Someone accessed my account without authorization. I suspect a security breach.,Account,Medium,2024-01-05,In Progress
+888,I ordered express shipping but the package is coming via standard delivery. I need help with this issue.,Delivery,Low,2024-08-07,Open
+889,The quality assurance on your latest product release is clearly lacking. I need help with this issue.,Service Quality,Low,2024-07-30,In Progress
+890,My account history and past orders have been wiped clean after the migration. Please resolve this urgently.,Account,Medium,2023-10-13,Closed
+891,My account profile information was changed without my knowledge. This has been going on for too long.,Account,Medium,2023-07-31,In Progress
+892,The billing cycle changed without my consent. I want to go back to monthly billing. This has been going on for too long.,Billing,High,2023-10-13,Closed
+893,The estimated delivery date on the website was inaccurate by over a week. Expecting a quick resolution.,Delivery,Low,2024-08-24,Closed
+894,The API integration keeps returning timeout errors for our application. This needs immediate attention.,Technical Support,High,2024-01-15,Closed
+895,My account was locked without any explanation. I need immediate access. Expecting a quick resolution.,Account,High,2023-12-06,Closed
+896,The tracking information hasn't updated in 4 days. Where is my package? This needs immediate attention.,Delivery,Medium,2023-01-16,Closed
+897,The account merge feature is not working. I have two accounts that need combining. I am very disappointed.,Account,Low,2024-09-21,Closed
+898,Your response time to emails is terrible. I waited a week for a simple answer. Please resolve this urgently.,Service Quality,Low,2023-01-27,Closed
+899,The website is extremely slow and keeps timing out. I can't complete any transactions. This has been going on for too long.,Technical Support,Medium,2024-10-22,Open
+900,The delivery window given was 8am-8pm which is way too broad to be useful. I am very disappointed.,Delivery,Medium,2024-02-28,Open
+901,I cannot update my email address on the account settings page.,Account,Medium,2023-01-13,In Progress
+902,My delivery was marked as delivered but I never received it at my address.,Delivery,Medium,2024-09-20,Open
+903,The quality assurance on your latest product release is clearly lacking. I am very disappointed.,Service Quality,Medium,2024-10-16,Open
+904,I requested an account data export but received an incomplete file. This has been going on for too long.,Account,Medium,2024-06-19,Closed
+905,Screen sharing feature freezes during presentations. This is affecting my work. Please resolve this urgently.,Technical Support,Medium,2023-06-17,Open
+906,The delivery driver left the package in the rain without any protection. I am very disappointed.,Delivery,Low,2023-02-08,Open
+907,Two-factor authentication is locked and I cannot access my account at all. I need help with this issue.,Technical Support,High,2024-06-07,Closed
+908,My delivery was marked as delivered but I never received it at my address. I need help with this issue.,Delivery,Medium,2023-07-05,Closed
+909,The tracking information hasn't updated in 4 days. Where is my package?,Delivery,Medium,2023-04-11,In Progress
+910,The service quality has deteriorated significantly over the past few months. This needs immediate attention.,Service Quality,High,2024-04-22,Closed
+911,My account was locked without any explanation. I need immediate access. I need help with this issue.,Account,Medium,2023-08-17,Closed
+912,Your response time to emails is terrible. I waited a week for a simple answer. Expecting a quick resolution.,Service Quality,Medium,2024-11-02,Open
+913,My account shows a balance due but I already paid in full last week. Please look into this matter.,Billing,Medium,2024-10-18,Closed
+914,Your response time to emails is terrible. I waited a week for a simple answer.,Service Quality,Low,2023-09-25,In Progress
+915,The privacy settings on my account are not saving when I try to update them. I am very disappointed.,Account,Medium,2023-09-16,Closed
+916,The software update broke several features that were working fine before. Please resolve this urgently.,Technical Support,Medium,2024-11-23,Closed
+917,My replacement order is taking longer than the original order to ship. Please look into this matter.,Delivery,Low,2023-10-10,In Progress
+918,The technician who visited my home was unprofessional and left without fixing the issue.,Service Quality,Medium,2024-11-02,Closed
+919,The quality assurance on your latest product release is clearly lacking. This has been going on for too long.,Service Quality,Low,2023-06-29,Closed
+920,The service quality has deteriorated significantly over the past few months. This has been going on for too long.,Service Quality,Medium,2024-01-14,Closed
+921,The mobile app notifications are not working. I'm missing important alerts. Please resolve this urgently.,Technical Support,High,2023-06-10,Closed
+922,Your team promised a callback within 24 hours but nobody called me back. I am very disappointed.,Service Quality,High,2024-03-21,Closed
+923,I was charged for a premium feature that I never opted into. Remove the charge. Please resolve this urgently.,Billing,Low,2024-03-08,Closed
+924,My delivery was marked as delivered but I never received it at my address. I am very disappointed.,Delivery,High,2024-01-10,Closed
+925,I expect better service for the premium price I'm paying for your subscription.,Service Quality,High,2024-09-21,Open
+926,Screen sharing feature freezes during presentations. This is affecting my work. This needs immediate attention.,Technical Support,High,2023-02-05,In Progress
+927,The service outage lasted 3 days and there was no communication from your team. This has been going on for too long.,Service Quality,Medium,2023-12-08,In Progress
+928,My replacement order is taking longer than the original order to ship.,Delivery,Low,2023-04-25,Closed
+929,I need to transfer my account ownership but the process is not documented.,Account,Low,2024-09-15,Closed
+930,I've contacted support 5 times about the same issue and it's still not resolved. Please resolve this urgently.,Service Quality,High,2024-12-26,Open
+931,My payment was deducted but the service was not activated. I need an immediate refund. I need help with this issue.,Billing,Medium,2024-05-03,Open
+932,I've contacted support 5 times about the same issue and it's still not resolved. Please look into this matter.,Service Quality,Medium,2023-11-16,In Progress
+933,I cannot upload files larger than 5MB even though the limit should be 25MB. Please resolve this urgently.,Technical Support,Low,2023-08-23,Closed
+934,I expect better service for the premium price I'm paying for your subscription. Please look into this matter.,Service Quality,Medium,2024-06-03,Closed
+935,My account history and past orders have been wiped clean after the migration. This has been going on for too long.,Account,High,2024-12-22,In Progress
+936,The account verification process keeps failing even with correct documents. This needs immediate attention.,Account,Medium,2024-10-20,Closed
+937,My account was locked without any explanation. I need immediate access. This has been going on for too long.,Account,Medium,2023-02-15,Open
+938,I filed a formal complaint two weeks ago and have received no acknowledgment.,Service Quality,Low,2024-10-08,Open
+939,I was transferred between 4 different departments without anyone helping me.,Service Quality,High,2024-11-05,Closed
+940,My refund has been pending for over 30 days. When will it be processed? Expecting a quick resolution.,Billing,High,2024-11-08,Open
+941,The delivery date was changed twice without notifying me in advance. This has been going on for too long.,Delivery,Medium,2023-03-18,Closed
+942,Your staff provided incorrect information which caused me financial loss. I am very disappointed.,Service Quality,High,2024-08-22,Open
+943,The online help documentation is outdated and doesn't match the current interface. Please resolve this urgently.,Service Quality,Medium,2024-01-18,Closed
+944,I requested an account data export but received an incomplete file. This has been going on for too long.,Account,High,2023-11-26,Open
+945,I filed a formal complaint two weeks ago and have received no acknowledgment. Please resolve this urgently.,Service Quality,Medium,2024-05-29,In Progress
+946,The quality of your product has declined since I first purchased it. I need help with this issue.,Service Quality,High,2024-06-13,In Progress
+947,The delivery window given was 8am-8pm which is way too broad to be useful. This needs immediate attention.,Delivery,High,2023-09-04,In Progress
+948,My package was returned to sender without any attempt to deliver it. Please resolve this urgently.,Delivery,Low,2023-07-30,In Progress
+949,The parental controls on my account are not restricting content as configured. This needs immediate attention.,Account,High,2023-06-02,Open
+950,Half of the items in my order are missing. I only received 2 out of 5 items. This needs immediate attention.,Delivery,High,2023-10-01,Open
+951,The privacy settings on my account are not saving when I try to update them. Please look into this matter.,Account,Medium,2023-06-27,Open
+952,The privacy settings on my account are not saving when I try to update them. Expecting a quick resolution.,Account,Medium,2024-06-11,Closed
+953,My account profile information was changed without my knowledge. I am very disappointed.,Account,Low,2023-11-25,In Progress
+954,The quality assurance on your latest product release is clearly lacking. I am very disappointed.,Service Quality,Low,2023-04-13,Open
+955,Your software is not compatible with the latest OS update. Please fix this. This needs immediate attention.,Technical Support,Low,2023-08-11,In Progress
+956,My refund has been pending for over 30 days. When will it be processed? Please resolve this urgently.,Billing,Medium,2023-04-22,Closed
+957,My order shows shipped but the carrier says they never received the package. Please resolve this urgently.,Delivery,Medium,2023-05-09,Closed
+958,I received the wrong item. The order number matches but the product is different. Please look into this matter.,Delivery,Medium,2023-09-15,Closed
+959,I need an itemized bill breakdown. The total charges seem inflated. This has been going on for too long.,Billing,Medium,2024-01-07,Open
+960,The search function on your platform returns irrelevant results or no results at all. This needs immediate attention.,Technical Support,Low,2023-05-24,Open
+961,The online help documentation is outdated and doesn't match the current interface. This needs immediate attention.,Service Quality,Low,2024-06-22,Closed
+962,I've contacted support 5 times about the same issue and it's still not resolved.,Service Quality,Low,2023-12-12,Closed
+963,The billing cycle changed without my consent. I want to go back to monthly billing. This needs immediate attention.,Billing,Medium,2023-05-12,In Progress
+964,My account history and past orders have been wiped clean after the migration. Expecting a quick resolution.,Account,Medium,2023-06-19,Closed
+965,Your software is not compatible with the latest OS update. Please fix this. I need help with this issue.,Technical Support,Medium,2023-03-18,Open
+966,I've been waiting on hold for over 45 minutes. This is unacceptable wait time. This has been going on for too long.,Service Quality,High,2023-02-02,Closed
+967,I want to delete my account but there is no option to do so on the website. This needs immediate attention.,Account,Medium,2024-05-30,Closed
+968,I need an itemized bill breakdown. The total charges seem inflated. I need help with this issue.,Billing,Medium,2024-06-26,Open
+969,The print function is not working correctly. Pages come out blank or garbled. I am very disappointed.,Technical Support,Medium,2024-01-13,Closed
+970,Screen sharing feature freezes during presentations. This is affecting my work. Please look into this matter.,Technical Support,Medium,2023-08-13,Closed
+971,The website is extremely slow and keeps timing out. I can't complete any transactions. I am very disappointed.,Technical Support,High,2024-12-27,Closed
+972,Data sync between desktop and mobile versions is not working properly.,Technical Support,Medium,2024-12-26,Closed
+973,The gift wrapping I paid extra for was not included in the delivery. I need help with this issue.,Delivery,High,2024-01-08,Closed
+974,My device is not connecting to your service. I've followed all troubleshooting steps.,Technical Support,Low,2024-12-25,Closed
+975,The print function is not working correctly. Pages come out blank or garbled. Please look into this matter.,Technical Support,High,2023-01-28,In Progress
+976,The API integration keeps returning timeout errors for our application. I am very disappointed.,Technical Support,High,2024-04-09,Open
+977,The app keeps crashing every time I try to open it. I've tried reinstalling but no luck. Please resolve this urgently.,Technical Support,Medium,2024-06-27,Open
+978,The live chat support agent disconnected without resolving my issue. Please resolve this urgently.,Service Quality,High,2024-01-16,In Progress
+979,I was charged twice for my subscription this month. Please refund the extra amount. I need help with this issue.,Billing,High,2023-01-16,Open
+980,I see duplicate transactions on my statement. Both need to be investigated. This has been going on for too long.,Billing,Low,2023-03-19,Open
+981,I'm getting error code 502 whenever I try to access my dashboard. This needs immediate attention.,Technical Support,Medium,2023-02-21,Closed
+982,My account shows a balance due but I already paid in full last week. This needs immediate attention.,Billing,High,2024-05-17,Closed
+983,My loyalty points disappeared from my account after the system update.,Account,Medium,2023-10-15,Open
+984,The export feature generates corrupted files. I cannot open the downloaded reports. Expecting a quick resolution.,Technical Support,Low,2024-11-16,Closed
+985,The gift wrapping I paid extra for was not included in the delivery. This needs immediate attention.,Delivery,High,2024-11-28,Closed
+986,Service reliability has been terrible with frequent outages this quarter. This needs immediate attention.,Service Quality,Medium,2023-09-15,Open
+987,I've been waiting 3 weeks for an international shipment that was quoted 7 days. Please look into this matter.,Delivery,High,2024-03-30,Closed
+988,Auto-save is not working and I lost 2 hours of work. Very frustrating.,Technical Support,Medium,2024-08-23,Closed
+989,I filed a formal complaint two weeks ago and have received no acknowledgment. I am very disappointed.,Service Quality,Medium,2024-03-25,Open
+990,My corporate discount is not reflecting on the latest bill. Please correct this. I need help with this issue.,Billing,Low,2024-12-31,In Progress
+991,The gift wrapping I paid extra for was not included in the delivery. This has been going on for too long.,Delivery,Low,2024-06-07,In Progress
+992,I cannot link my social media accounts to my profile anymore. I need help with this issue.,Account,Low,2024-02-02,In Progress
+993,Your company's communication during the maintenance window was poor. This has been going on for too long.,Service Quality,High,2024-12-02,In Progress
+994,Two-factor authentication is locked and I cannot access my account at all. I need help with this issue.,Technical Support,High,2024-10-24,Open
+995,My payment was deducted but the service was not activated. I need an immediate refund. Please resolve this urgently.,Billing,Medium,2024-09-01,In Progress
+996,The privacy settings on my account are not saving when I try to update them. Please look into this matter.,Account,Medium,2023-01-29,Open
+997,The delivery date was changed twice without notifying me in advance. This needs immediate attention.,Delivery,Low,2023-11-06,Closed
+998,My order shows shipped but the carrier says they never received the package. I need help with this issue.,Delivery,High,2023-12-29,Open
+999,I cannot add a secondary user to my account as the option is greyed out. I need help with this issue.,Account,High,2024-12-02,Open
+1000,The search function on your platform returns irrelevant results or no results at all. This needs immediate attention.,Technical Support,Medium,2023-12-25,Open
