@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pickle
+import joblib
 import os
 import re
 import nltk
@@ -13,22 +13,8 @@ import seaborn as sns
 from lime.lime_text import LimeTextExplainer
 
 # Download NLTK data if not already present
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords')
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt')
-try:
-    nltk.data.find('corpora/wordnet')
-except LookupError:
-    nltk.download('wordnet')
-try:
-    nltk.data.find('tokenizers/punkt_tab')
-except LookupError:
-    nltk.download('punkt_tab')
+for _pkg in ['stopwords', 'punkt', 'punkt_tab', 'wordnet']:
+    nltk.download(_pkg, quiet=True)
 
 # --- Page Config ---
 st.set_page_config(
@@ -104,12 +90,9 @@ def get_resolution_priority(category, confidence):
 def load_models():
     models_dir = 'models'
     try:
-        with open(os.path.join(models_dir, 'complaint_classifier.pkl'), 'rb') as f:
-            classifier = pickle.load(f)
-        with open(os.path.join(models_dir, 'tfidf_vectorizer.pkl'), 'rb') as f:
-            vectorizer = pickle.load(f)
-        with open(os.path.join(models_dir, 'label_encoder.pkl'), 'rb') as f:
-            encoder = pickle.load(f)
+        classifier = joblib.load(os.path.join(models_dir, 'complaint_classifier.pkl'))
+        vectorizer = joblib.load(os.path.join(models_dir, 'tfidf_vectorizer.pkl'))
+        encoder    = joblib.load(os.path.join(models_dir, 'label_encoder.pkl'))
         return classifier, vectorizer, encoder
     except FileNotFoundError:
         return None, None, None
@@ -319,10 +302,12 @@ elif page == 'Explainable AI':
                     weights = [x[1] for x in exp_list]
                     
                     fig, ax = plt.subplots(figsize=(8, 4))
-                    colors = ['green' if w > 0 else 'red' for w in weights]
-                    sns.barplot(x=weights, y=words, palette=colors, ax=ax)
+                    colors = ['#21c354' if w > 0 else '#ff4b4b' for w in weights]
+                    ax.barh(words, weights, color=colors)
+                    ax.axvline(0, color='grey', linewidth=0.8, linestyle='--')
                     ax.set_xlabel("Weight")
                     ax.set_title(f"Features contributing to '{predicted_category}'")
+                    ax.invert_yaxis()
                     st.pyplot(fig)
                     
                 except Exception as e:
